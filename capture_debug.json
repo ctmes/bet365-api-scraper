@@ -1,0 +1,1698 @@
+{
+  "http": [
+    {
+      "url": "https://www.bet365.com.au/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 42218,
+      "body_preview": "<!DOCTYPE html>\n<html lang=en-US>\n<head><meta charset=\"UTF-8\"/><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"/><meta name=\"format-detection\" content=\"telephone=no\"/><meta name=\"google\" content=\"notranslate\"/><link rel=\"apple-touch-icon\" sizes=\"167x167\" href=\"/sportsbook-static/favicons/favicon-167x167.png\" type=\"image/png\"/>\n\t\t<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"/sportsbook-st"
+    },
+    {
+      "url": "https://www.bet365.com.au/websiteroutingdatacontentapi/routingdata?v=2592574343",
+      "status": 200,
+      "content_type": "application/json",
+      "bytes": 16724,
+      "body_preview": "{\"manifest\":[{\"c\":1,\"e\":\"/specialeventcontentapi/teambetboostpoll\",\"m\":\"I^:16,17,18,20,21,88~R^:1\",\"o\":\"0\",\"p\":\"sebb\",\"t\":\"PB\"},{\"c\":1,\"e\":\"/racingsplashcontentapi/pod\",\"m\":\"AS:~B:2,4,88\",\"o\":\"1\",\"p\":\"rbb\",\"t\":\"PB\"},{\"c\":1,\"e\":\"/splashcontentapi/betboostpoll\",\"m\":\"AS:\",\"o\":\"2\",\"p\":\"bb\",\"t\":\"PB\"},{\"c\":1,\"e\":\"/matchbettingcontentapi/betboost\",\"m\":\"AC:~B:3,12,13,14,15,16,17,18\",\"o\":\"3\",\"p\":\"mbbb\",\"q\""
+    },
+    {
+      "url": "https://www.bet365.com.au/manifestapi/getmanifest?s=www-OC-sportsoc&v=4937&cl=AU&a=0",
+      "status": 200,
+      "content_type": "application/json",
+      "bytes": 44071,
+      "body_preview": "{\"m\":{\"BootLib\":{\"v\":\"99\"},\"ExtraPlayerModule\":{\"f\":3,\"v\":\"46\",\"d\":[\"me\",\"mm\"]},\"NavLib\":{\"f\":12,\"v\":\"48\"},\"PlayerImagesLib\":{\"f\":2,\"v\":\"12\",\"d\":[\"tll\",\"aul\",\"pb\"]},\"PlayerImagesLib-Default\":{\"v\":\"11\"},\"aar\":{\"f\":11,\"v\":\"30\",\"d\":[\"fll\",\"asl\",\"sui\",\"cic\",\"pb\",\"al\"]},\"aar-Default\":{\"f\":8,\"v\":\"5\",\"d\":[\"pb\"]},\"abl\":{\"f\":8,\"v\":\"2\",\"d\":[\"pb\"]},\"acc\":{\"f\":8,\"v\":\"17\"},\"acl\":{\"v\":\"18\"},\"acm\":{\"f\":7,\"v\":\"26"
+    },
+    {
+      "url": "https://www.bet365.com.au/Api/1/Blob?30,www-OC-sportsoc,rll/24/",
+      "status": 200,
+      "content_type": "text/plain; charset=utf-8",
+      "bytes": 330270,
+      "body_preview": "\u0004(()=>{window.ReactLibraryLibX=window.ReactLibraryLibX||{},function(){\"use strict\";var zn,Fn;zn=this,Fn=function(zn){function w(zn,Fn,In){this.props=zn,this.context=Fn,this.refs=ta,this.updater=In||Kn}function Y(){}function K(zn,Fn,In){this.props=zn,this.context=Fn,this.refs=ta,this.updater=In||Kn}function Z(zn,In,Un){var Bn,qn={},Wn=null,Vn=null;if(null!=In)for(Bn in void 0!==In.ref&&(Vn=In.ref),"
+    },
+    {
+      "url": "https://www.bet365.com.au/Api/1/Blob?30,www-OC-sportsoc,brl/16/SL%7Clog/12/%7Cdtl/10/%7Cdal/14/%7Cgen5base/261/%7Cwcl/362/S%7Cgll/53/%7CNavLib/48/%7Cspl/19/%7Cwc/326/SL%7Cdrl/17/%7Crct/150/S%7Chrm/60/SL%7Cgup/22/%7Cpl/123/S%7Cabl/2/%7Csln/36/SL%7Ccwc/708/",
+      "status": 200,
+      "content_type": "text/plain; charset=utf-8",
+      "bytes": 1022585,
+      "body_preview": "\u0004(()=>{window.PostBootReactLibX=window.PostBootReactLibX||{};const e={};var t;e.getML=function(e,t){return window.PostBootReactLibX.ml[e]||t};var o=[e=>{\"use strict\";e.exports=React},e=>{\"use strict\";e.exports=ReactJSXRuntime},(e,t,o)=>{\"use strict\";Object.defineProperty(t,\"__esModule\",{value:!0}),t.AccessibilityContext=void 0;const r=o(0);t.AccessibilityContext=(0,r.createContext)(void 0),t.Acces"
+    },
+    {
+      "url": "https://www.bet365.com.au/pullpodapi/gethomepagepods?lid=30&zid=0&pd=%23HO%23COL1%23&cid=13&cstid=4&tcstid=2&crid=3&cgid=2&ctid=13&csid=99",
+      "status": 200,
+      "content_type": "text/plain; charset=utf-8",
+      "bytes": 8265,
+      "body_preview": "F|PS;IT=#HO#COL1#PDCOL1#;CO=1;AD=1;|PD;CN=1;PT=14;|PD;CN=1;PT=996;TL=#CR#LEAGUES#CONT#;|PD;CN=1;PT=49;TL=#PDCAR28613#;PV=carouselpodcontentapi;|PD;CN=1;PT=993;TL=#HNV#;|PD;CN=1;PT=61;TL=#SPOTLIGHT31520#;|\bF|XL;ID=;IT=#HO#COL1#;TL=#HO#COL1#PDCOL1#;|\bF|CL;IT=#CR#LEAGUES#CONT#;|EV;|MA;NA=World Cup;CL=1;PD=#AS#B1#I%5E88#J%5E1#K%5E1#;IM=WC26_Logo_oversized1;IG=WC26_Logo_oversized1.svg;EF=0;L3=;|MA;NA=H"
+    },
+    {
+      "url": "https://www.bet365.com.au/defaultapi/sports-configuration?_h=ueUUIP35G-8CfMQNH90G4w==",
+      "status": 200,
+      "content_type": "application/json; charset=utf-8",
+      "bytes": 6637,
+      "body_preview": "{\"ns_weblib_util\":{\"WebsiteConfig\":{\"GEOCOMPLY_INSTALLER_ID\":\"\",\"GEOCOMPLY_ENVIROMENT\":\"\",\"GEOCOMPLY_HOSTNAME\":\"\",\"GEOCOMPLY_VERSION\":\"\",\"OOBEE_URL\":\"\",\"OOBEE_SERVICE_URL\":\"\",\"OOBEEV2_URL\":\"\",\"SITE_EXCLUDED_SPORTS\":[144,146,145,149,2019,2020,6,2022,2023,2024,152,2026,2027,158,161,2021,2025,164,163,2029,165,2024,152,2026,2027,158,161,2021,2025,164,163,2029,165,165,144,146,145,149,2019,2020,6,2022,2"
+    },
+    {
+      "url": "https://www.bet365.com.au/Api/1/Blob?30,www-OC-sportsoc,wlm-AU/26/%7Cpb/76/%7Cigl2-Default/16/%7Cigl2/44/%7Cwlm/30/%7Canl/8/%7Crtd/5/%7Cfcl2/24/%7Cfcm/16/",
+      "status": 200,
+      "content_type": "text/plain; charset=utf-8",
+      "bytes": 55503,
+      "body_preview": "\u0004var SITE_ROOT_PATH=\"sportsoc\";(()=>{var e=ns_gen5_ui.Module,n=ns_webconsolelib_util.WebPageUtils;class o extends e{refreshAfterLogout(){window.setTimeout(()=>n.Reload(\"71\"),Math.floor(500*Math.random()))}loadBetSyncLogin(e){}getMinOdds(){return 0}handleRegulatoryRequirements(){}legacyAppContinueInAppOptionsURL(){return\"/WebConsoleModule/assets/UnsupportedAppv2.html\"}sessionDeleted(){n.ReloadDelay"
+    },
+    {
+      "url": "https://www.bet365.com.au/Api/1/Blob?30,www-OC-sportsoc,fbr/5/S%7Caar-Default/5/%7Cal/12/%7Casl-AU/11/%7Casl/12/%7Ccic/38/SL%7Cfll/24/%7Csui/47/S%7Caar/30/SL%7Cpnl/21/%7Clru/24/%7Clrm/14/%7Crhm-Default/10/%7Crhm/9/SL%7Cmmr/15/SL%7Csll-AU/14/%7Csll/20/%7Czsa-AU/7/SL%7Cobr/2/%7Cprl/21/S%7Crsl/13/L%7Czsa/42/SL%7Clhs-AU/3/%7Ccar-Default/6/%7Ccar/10/S%7Ccll/21/%7Clhs/16/SL%7Cfxs/2/%7Cpv/34/%7Crgl/73/SL%7Cfrm/59/S",
+      "status": 200,
+      "content_type": "text/plain; charset=utf-8",
+      "bytes": 465406,
+      "body_preview": "\u0004(()=>{window.FirebaseWebSDKModuleX=window.FirebaseWebSDKModuleX||{};var e,t=[function(e,t,r){\"use strict\";var s=this&&this.__decorate||function(e,t,r,s){var o,i=arguments.length,n=i<3?t:null===s?s=Object.getOwnPropertyDescriptor(t,r):s;if(\"object\"==typeof Reflect&&\"function\"==typeof Reflect.decorate)n=Reflect.decorate(e,t,r,s);else for(var a=e.length-1;a>=0;a--)(o=e[a])&&(n=(i<3?o(n):i>3?o(t,r,n)"
+    },
+    {
+      "url": "https://www.bet365.com.au/Api/1/Blob?30,www-OC-sportsoc,snc/28/",
+      "status": 200,
+      "content_type": "text/plain; charset=utf-8",
+      "bytes": 5344,
+      "body_preview": "\u0004var SITE_ROOT_PATH=\"sportsoc\";function appModule(e){e=ns_gen5_ui.Module.getRoot(e).parent.appModule;return e&&e.getModule()}(()=>{var e=ns_gen5_ui.Module,s=(ns_gen5_data.Stem,ns_webconsolelib_modulecontainer.SingletonHeaderModule,ns_gen5_util.Singleton,ns_gen5_util.MathUtil),i=ns_webconsolelib_util_header.headerHeight,r=ns_webconsolelib_util.Browser,o=ns_webconsolelib_util.WebConsoleGlobals;class"
+    },
+    {
+      "url": "https://www.bet365.com.au/Api/1/Blob?30,www-OC-sportsoc,htm-AU/14/%7Caul/17/S%7Chtm/26/SL%7Cplm-AU/12/%7Cplm/12/%7Ccrr-Default/7/%7Ccrr/30/S%7Cprb-Default/6/%7Cprb/33/SL%7Chcr-AU/12/SL%7Chcr/19/SL%7Cscr/20/S%7Chsn/39/S%7Cbbr-AU/14/%7Cpvb/26/%7Cbbr/72/SL%7Cbrr-Default/9/%7Cbcr-Default/8/%7Cbcr/20/SL%7Cccl/25/%7Ctal-Default/14/%7Ctal/54/S%7Cbrr/74/SL%7Cbdl/24/%7Cbpr/10/SL%7Ciba-AU/7/%7Ciba/16/SL%7Cipml-AU/2/%7Cmr-AU/3/%7Cmr/14/%7Csdl-Default/13/%7Csdl/9/%7Cipml/2/SL%7Cmar/8/%7Cmau/13/S%7Cme-AU/5/%7Cme/70/SL%7Crso-Default/2/%7Crso/42/SL%7Crul-AU/9/L%7Crul/58/SL%7Csif-Default/7/%7Csif/12/%7Crrr/23/SL%7Cfcl/9/%7Cfl/17/%7Cglc-Default/11/%7Cglc/36/S%7Cgl/38/S%7Cbbo-AU/13/%7Cbbo/45/SL%7Clrl/26/SL%7Ctll-Default/14/%7Ctll/33/%7Css/73/S",
+      "status": 200,
+      "content_type": "text/plain; charset=utf-8",
+      "bytes": 961257,
+      "body_preview": "\u0004var SITE_ROOT_PATH=\"sportsoc\";(()=>{var e=ns_gen5_ui.Module;class n extends e{getEnabledTabs(){return[!0,!0,!0]}}ns_gen5_ui.ModuleContainer.RegisterModule(\"htm-AU\",n)})();\u0003\u0006\u0005\u0004var ns_accessibilityuilib_ui,ns_accessibilityuilib_ui_image,ns_accessibilityuilib_ui_form,ns_accessibilityuilib_ui_dropdown,ns_accessibilityuilib_ui_popup,ns_accessibilityuilib_ui_tab,ns_accessibilityuilib_ui_table,SITE_ROOT"
+    },
+    {
+      "url": "https://www.bet365.com.au/Api/1/Blob?30,www-OC-sportsoc,slz-Default/3/%7Cslz/3/%7Chlr-Default/9/%7Chlr/8/",
+      "status": 200,
+      "content_type": "text/plain; charset=utf-8",
+      "bytes": 6068,
+      "body_preview": "\u0004(()=>{window.SiteLauncherLocaleReactModuleDefaultX=window.SiteLauncherLocaleReactModuleDefaultX||{};var e,a=[,(e,a,t)=>{Object.defineProperty(a,\"__esModule\",{value:!0}),a.SiteLauncherLocaleReactModuleDefault=void 0;const u=t(2);class SiteLauncherLocaleReactModuleDefault extends u.Module{}a.SiteLauncherLocaleReactModuleDefault=SiteLauncherLocaleReactModuleDefault},e=>{e.exports=window.ns_gen5_ui}]"
+    },
+    {
+      "url": "https://www.bet365.com.au/leftnavcontentapi/allsportsmenu?lid=30&zid=0&pd=%23AL%23R%5E1%23&cid=13&cgid=2&ctid=13&csid=99",
+      "status": 200,
+      "content_type": "text/plain; charset=utf-8",
+      "bytes": 4576,
+      "body_preview": "F|CS;IT=LN-HL1;SY=Sports;NA=Sports;PV=leftnavcontentapi_0;|CL;ID=-5;IT=LN-LW-5;NA=Offers;PD=#OF#;AE=1;SY=OFFER;|CL;ID=-20;IT=LN-LW-PO0;EX=PO;|EV;ID=36;IT=LN-PO00;NA=AFL;ED=zClass_AustralianRules;IG=zClass_AustralianRules.svg;RS=3;PD=#AC#B36#C21101752#D48#E360013#F48;EX=;EF=0;|EV;ID=19;IT=LN-PO00;NA=NRL;ED=zClass_RugbyLeague;IG=zClass_RugbyLeague.svg;RS=3;PD=#AC#B19#C20459137#D50#E190002#F50;EX=;EF"
+    },
+    {
+      "url": "https://www.bet365.com.au/pullpodapi/gethomepagepods?lid=30&zid=0&pd=%23HO%23COL1%23&cid=13&cstid=4&tcstid=2&crid=3&cgid=2&ctid=13&csid=99",
+      "status": 200,
+      "content_type": "text/plain; charset=utf-8",
+      "bytes": 8265,
+      "body_preview": "F|PS;IT=#HO#COL1#PDCOL1#;CO=1;AD=1;|PD;CN=1;PT=14;|PD;CN=1;PT=996;TL=#CR#LEAGUES#CONT#;|PD;CN=1;PT=49;TL=#PDCAR28613#;PV=carouselpodcontentapi;|PD;CN=1;PT=993;TL=#HNV#;|PD;CN=1;PT=61;TL=#SPOTLIGHT31520#;|\bF|XL;ID=;IT=#HO#COL1#;TL=#HO#COL1#PDCOL1#;|\bF|CL;IT=#CR#LEAGUES#CONT#;|EV;|MA;NA=World Cup;CL=1;PD=#AS#B1#I%5E88#J%5E1#K%5E1#;IM=WC26_Logo_oversized1;IG=WC26_Logo_oversized1.svg;EF=0;L3=;|MA;NA=H"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/LeagueLogo/WC26_Logo_oversized1.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 14851,
+      "body_preview": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?>\n<svg\n   height=\"49.74918\"\n   viewBox=\"0 0 49.742065 49.74918\"\n   width=\"49.742065\"\n   version=\"1.1\"\n   id=\"svg5\"\n   xmlns=\"http://www.w3.org/2000/svg\"\n   xmlns:svg=\"http://www.w3.org/2000/svg\">\n  <defs\n     id=\"defs2\">\n    <mask\n       id=\"b-7\"\n       fill=\"#ffffff\">\n      <path\n         id=\"use7\"\n         d=\"m 0,0 0.05418005,8.4736981 c 0,0.4"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/LeagueLogo/zClass_HorseRacing2.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 4948,
+      "body_preview": "<svg height=\"50\" viewBox=\"0 0 50 50\" width=\"50\" xmlns=\"http://www.w3.org/2000/svg\"><g fill=\"none\" fill-rule=\"evenodd\" transform=\"translate(0 3.2517)\"><g transform=\"translate(0 7.6134)\"><path d=\"m9.76003059 9.42309897c3.03215811 5.54695833 10.84119451 12.62861523 17.24438321 15.17005153-1.2813689 2.8698602-1.7648348 6.4712278-1.4503975 10.804103-3.3148448 2.3927228-21.82502946-4.6826469-25.5540163-"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/LeagueLogo/zClass_Greyhounds2.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 1876,
+      "body_preview": "<svg height=\"50\" viewBox=\"0 0 50 50\" width=\"50\" xmlns=\"http://www.w3.org/2000/svg\"><g fill=\"none\" fill-rule=\"evenodd\" transform=\"translate(0 4.8504)\"><path d=\"m30.0045965.97418525c2.027752.497494 5.5657046.8725749 5.5065145.98053456-.6712603.54769268-2.8956384.59255363-4.7836251.59469425l-1.2751015.00051974c-1.1000245.00553334-1.8348116.0423741-1.610239.25519604 7.6914806 5.41686628 12.6459548 10."
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/LeagueLogo/zClass_Trotting.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 2974,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"50\" height=\"50\" viewBox=\"0 0 50 50\"><g fill=\"none\" fill-rule=\"evenodd\" transform=\"translate(7)\"><path fill=\"#FFF\" fill-rule=\"nonzero\" d=\"M17.6844809,31.0752137 C22.8683003,32.0815194 26.2537688,37.0940744 25.2461364,42.2710686 C24.2385039,47.4480629 19.2193405,50.8290739 14.0355211,49.8227682 C8.9570846,48.8369198 5.60462419,44.0060544 6.41783731,38.9"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/LeagueLogo/QuickLinks-Sky-Racing-Icon_oversized1_.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 8669,
+      "body_preview": "<svg width=\"40\" height=\"40\" viewBox=\"0 0 40 40\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M23.8264 29.6306H28.4959L23.1092 22.8458L25.8504 19.3893V19.3813L29.1175 23.8059V29.6306H32.9583V23.8139L34.9584 21.1175L32.8388 18.4612L30.9502 20.9255L28.0497 16.949L24.7507 16.941H23.6431L19.0453 22.6217V16.941H15.2124V29.6387H18.9576V23.6939L23.8264 29.6306Z\" fill=\"white\"/>\n<path d=\"M14.694"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/LeagueLogo/OFY.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 905,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"23\" height=\"25\" fill=\"none\"><path fill=\"url(#a)\" d=\"M12.087.144 22.4 5.578c.371.195.6.56.6.955v11.934c0 .395-.229.76-.6.955l-10.313 5.434a1.27 1.27 0 0 1-1.174 0L.6 19.422c-.371-.195-.6-.56-.6-.955V6.533c0-.395.229-.76.6-.955L10.913.144a1.27 1.27 0 0 1 1.174 0m-.304 1.487a.61.61 0 0 0-.566 0L1.774 6.575a.61.61 0 0 0-.327.54v10.77a.61.61 0 0 0 .327.54l"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/LeagueLogo/Stopwatch.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 2187,
+      "body_preview": "<svg height=\"51\" viewBox=\"0 0 49 51\" width=\"49\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><defs><path id=\"a\" d=\"m0 0h48v50h-48z\"/></defs><g fill=\"none\" fill-rule=\"evenodd\" transform=\"translate(.228 .6993)\" xlink:href=\"#a\"><use fill=\"none\" xlink:href=\"#a\"/><g transform=\"translate(3.5059)\"><g fill=\"#fff\"><path d=\"m3.43418739 9.11486082c.50489437-.47082162 1.295868"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/LeagueLogo/Futures-Racing.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 21470,
+      "body_preview": "<svg height=\"25\" viewBox=\"0 0 26 25\" width=\"26\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><defs><path id=\"a\" d=\"m0 0h26v25h-26z\"/></defs><g fill=\"none\" fill-rule=\"evenodd\" transform=\"translate(.0028)\" xlink:href=\"#a\"><use fill=\"none\" xlink:href=\"#a\"/><g><path d=\"m16.6921888-0c.406778.01754419.7578427.20742919 1.0531942.569655.2953514.36222581.3880532.76966689.27"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/LeagueLogo/zClass_Soccer.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 3547,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"50\" height=\"50\" viewBox=\"0 0 50 50\"><g fill=\"none\" fill-rule=\"evenodd\"><path fill=\"#FFF\" d=\"M24.8476185,0 C27.7340878,0 30.5063028,0.48918111 33.0858825,1.38916242 C33.8229945,2.11092877 34.5699712,3.03207427 35.328826,4.19181874 C37.7710168,4.71307566 40.0433089,5.62492235 42.2477464,7.04792852 C46.9347012,11.5930995 49.8476185,17.9563756 49.8476185,"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/LeagueLogo/zClass_RugbyLeague.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 5153,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"50\" height=\"50\" viewBox=\"0 0 50 50\"><g fill=\"none\" fill-rule=\"evenodd\"><path fill=\"#FFF\" d=\"M43.073453,1.69812752 C46.2466658,5.94196301 47.0283435,24.4838116 36.6326238,36.8566359 C26.5789392,48.8223753 9.11791202,51.3922802 3.70474538,49.381905 C4.69644299,44.3265389 7.49556876,38.6518223 11.7172211,32.6573105 C12.3483719,33.1531723 13.0180939,33.58"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/LeagueLogo/zClass_AustralianRules.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 5758,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"50\" height=\"50\" viewBox=\"0 0 50 50\"><g fill=\"none\" fill-rule=\"evenodd\"><path fill=\"#EB5556\" d=\"M38.9490988,37.317173 L37.59269,38.7336487 C28.3877443,47.7047251 15.314009,53.236774 6.75425659,47.9205228 C8.23719997,44.2931888 10.7059792,40.1276941 14.0456011,35.5705438 C22.6180925,23.8727728 37.5820734,9.44222924 45.3986536,4.06627635 C52.4104656,11.8"
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/FirebaseWebSDKModule/assets/firebase_iframe.html",
+      "status": 200,
+      "content_type": "text/html",
+      "bytes": 59143,
+      "body_preview": "<!DOCTYPE HTML>\n<html>\n    <head>\n        <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n        <meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n\n        <script type=\"text/javascript\" charset=\"UTF-8\">\n            !function(e,t){\"object\"==typeof exports&&\"undefined\"!=typeof module?module.exports=t():\"function\"==typeof define&&define.amd?define(t):(e=\"u"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/LeagueLogo/zlogo_mlb_official.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 1491,
+      "body_preview": "<svg width=\"30\" height=\"30\" xmlns=\"http://www.w3.org/2000/svg\">\r\n  <g id=\"MLB\" stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\">\r\n    <g fill-rule=\"nonzero\" id=\"Path\">\r\n      <path d=\"M27.503 0H2.501A2.52 2.52 0 0 0 .728.721 2.493 2.493 0 0 0 0 2.506v11.157a2.474 2.474 0 0 0 .726 1.777c.47.47 1.11.735 1.775.733h25.002A2.508 2.508 0 0 0 30 13.663V2.503A2.485 2.485 0 0 0 27.534 0h-.03Z"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/LeagueLogo/zlogo_WNBA_official_oversized1_.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 4384,
+      "body_preview": "<svg height=\"25\" viewBox=\"0 0 25 25\" width=\"25\" xmlns=\"http://www.w3.org/2000/svg\"><g fill=\"none\" fill-rule=\"evenodd\"><path d=\"m0 0h25v25h-25z\" fill=\"#f00\" opacity=\"0\"/><path d=\"m13.0147308 7.31236249c.1437939-.23919347.319115-.38361664.5566049-.50039204.0625592-.06186568.1073953-.12281568.1345083-.18284998.1112738-.22764384.3846235-.91286745.8273386-1.10759967.1202333-.07263758.0623401-.33585748."
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/LeagueLogo/zClass_Boxing.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 1834,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"50\" height=\"50\" viewBox=\"0 0 50 50\"><g fill=\"none\" fill-rule=\"evenodd\" transform=\"translate(7)\"><path fill=\"#EB5556\" d=\"M6.23814973,37.8057191 C6.50047673,37.9409401 6.76294587,38.0392037 7.02468842,38.0977701 L7.0930115,38.1081499 L7.08934075,38.1389341 C13.0069334,38.9761178 19.1243097,38.9761178 25.4349225,38.142633 L25.939286,38.0752922 L25.939286"
+    },
+    {
+      "url": "https://www.bet365.com.au/footerapi/sitecontent?lid=30&zid=0&pd=%23FO%23&cid=13&cgid=2&ctid=13&csid=99",
+      "status": 200,
+      "content_type": "text/plain; charset=utf-8",
+      "bytes": 9154,
+      "body_preview": "F|EV;IT=#FO#;ET=10;|MG;SY=fmb;NA=Information and transmission delays;N2=Although every effort is made to ensure that information displayed on site with regards to an event is correct, it is to be used as a guide only. In the event of any particular information (score, time of game etc) being incorrect we assume no liability for this. Please refer to our betting rules for information on how we sett"
+    },
+    {
+      "url": "https://www.bet365.com.au/pullpodapi/gethomepagepods?lid=30&zid=0&pd=%23HO%23COL1%23&cid=13&cstid=4&tcstid=2&crid=3&cgid=2&ctid=13&csid=99",
+      "status": 200,
+      "content_type": "text/plain; charset=utf-8",
+      "bytes": 8265,
+      "body_preview": "F|PS;IT=#HO#COL1#PDCOL1#;CO=1;AD=1;|PD;CN=1;PT=14;|PD;CN=1;PT=996;TL=#CR#LEAGUES#CONT#;|PD;CN=1;PT=49;TL=#PDCAR28613#;PV=carouselpodcontentapi;|PD;CN=1;PT=993;TL=#HNV#;|PD;CN=1;PT=61;TL=#SPOTLIGHT31520#;|\bF|XL;ID=;IT=#HO#COL1#;TL=#HO#COL1#PDCOL1#;|\bF|CL;IT=#CR#LEAGUES#CONT#;|EV;|MA;NA=World Cup;CL=1;PD=#AS#B1#I%5E88#J%5E1#K%5E1#;IM=WC26_Logo_oversized1;IG=WC26_Logo_oversized1.svg;EF=0;L3=;|MA;NA=H"
+    },
+    {
+      "url": "https://www.bet365.com.au/gamingservices/gam-client-gos-svcv1/uigamingconfiguration?appname=sports&countryid=13&stateid=99&loggedin=1&platformtypeid=1&currencyid=3&languageid=30&uhd=1&locale=row",
+      "status": 200,
+      "content_type": "text/javascript; charset=utf-8",
+      "bytes": 290430,
+      "body_preview": "const GamingContext = {\"stylesheet\":\"https://www.bet365.com.au/gamingservices/gam-client-ui-svcv1/60f8ce5f-d002-4de7-93a5-e4ca66b77c7a/css\",\"languageId\":30,\"countryId\":13,\"currencyId\":3,\"platformTypeId\":1,\"stateId\":99,\"countryGroupId\":33,\"siteAssetsImageLocation\":\"//content001.bet365.com.au/Games/\",\"regulatedZoneId\":7,\"productId\":4,\"isAuthenticated\":true,\"ageVerified\":true,\"deviceGroupId\":158,\"gam"
+    },
+    {
+      "url": "https://www.bet365.com.au/gamingservices/gam-client-ui-svcv1/60f8ce5f-d002-4de7-93a5-e4ca66b77c7a/css",
+      "status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "bytes": 39220,
+      "body_preview": ".footerIcon.O{display:inline-block;height:24px;margin:0 30px 30px 0;width:24px}.footerIcon.ll{margin:0!important}.footerIcon.O:empty{display:none}.footerIcon.O:after{content:\"\";display:none;border-bottom:6px solid var(--product-grey-dd);border-left:6px solid var(--product-bg-2);border-right:6px solid var(--product-bg-2);width:0px;transform:translate(6px,5px)}.footerIcon.O:hover:after,.footerIcon.O"
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/FooterReactModule/assets/Chevron_Down.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 230,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"8\" height=\"5\" viewBox=\"0 0 12 7\"><path class=\"fm-SVGComponent_Chevron\" fill=\"#b5b5b5\" fill-rule=\"evenodd\" d=\"M12 .784L11.243 0 6 5.431.757 0 0 .784l5.243 5.432L6 7l.757-.784z\"/></svg>"
+    },
+    {
+      "url": "https://www.bet365.com.au/sportsbook-static/web/footer/social_x.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 741,
+      "body_preview": "    <svg width=\"23px\" height=\"21px\" viewBox=\"0 0 23 21\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">\n    <g id=\"Twitter----Grey\" stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\">\n        <path class=\"fm-SVGComponent_SocialPath\" d=\"M8.92184578,11.5703628 L9.84377343,12.7782455 L2.03854867,21 L0,21 L8.92184578,11.5703628 Z M6.91054895,0.0"
+    },
+    {
+      "url": "https://www.bet365.com.au/sportsbook-static/web/footer/social_facebook.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 813,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"21\" height=\"21\" viewBox=\"0 0 21 21\">\n  <path class=\"fm-SVGComponent_SocialPath\" fill=\"#A7A7A7\" fill-rule=\"evenodd\" d=\"M21,10.5641691 C21,4.72973531 16.2989941,0 10.5,0 C4.70100586,0 0,4.72973531 0,10.5641691 C0,15.8370512 3.83969824,20.207481 8.859375,21 L8.859375,13.6178742 L6.19335938,13.6178742 L6.19335938,10.5641691 L8.859375,10.5641691 L8.859375,"
+    },
+    {
+      "url": "https://www.bet365.com.au/sportsbook-static/web/footer/social_instagram.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 4714,
+      "body_preview": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<svg width=\"21px\" height=\"21px\" viewBox=\"0 0 21 21\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">\n    <title>Instagram_Glyph_999</title>\n    <g id=\"Instagram_Glyph_999\" stroke=\"none\" fill=\"none\" fill-rule=\"evenodd\" stroke-width=\"1\">\n        <g id=\"Layer_1\" transform=\"translate(-0, 0.0001)\" fill=\"#999999\">\n       "
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/FooterReactModule/assets/Chevron_Down.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 230,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"8\" height=\"5\" viewBox=\"0 0 12 7\"><path class=\"fm-SVGComponent_Chevron\" fill=\"#b5b5b5\" fill-rule=\"evenodd\" d=\"M12 .784L11.243 0 6 5.431.757 0 0 .784l5.243 5.432L6 7l.757-.784z\"/></svg>"
+    },
+    {
+      "url": "https://www.bet365.com.au/pullpodapi/gethomepageadditionalpods?lid=30&zid=0&pd=%23HO%23COL1%231%23&cid=13&cstid=4&tcstid=2&crid=3&cgid=2&ctid=13&csid=99",
+      "status": 200,
+      "content_type": "text/plain; charset=utf-8",
+      "bytes": 8448,
+      "body_preview": "F|PS;IT=#HO#COL1#1#PDCOL1#;CO=1;AD=1;|PD;CN=1;PT=20;TL=RPB22119_30_0;EF=;|PD;CN=1;PT=27;TL=DR2S12_30_0;EF=;|PD;CN=1;PT=28;TL=DR4S12_30_0;EF=;|PD;CN=1;PT=29;TL=DR88S12_30_0;EF=;|PD;CN=1;PT=20;TL=RPB22120_30_0;EF=;|PD;CN=1;PT=43;TL=#TR#AS#B2#T43#P30304#HP#;EF=;|PD;CN=1;PT=61;TL=#SPOTLIGHT29801#;|PD;CN=1;PT=20;TL=RPB33968_30_0;EF=;|PD;CN=1;PT=20;TL=RPB33971_30_0;EF=;|PD;CN=1;PT=61;TL=#SPOTLIGHT34023#"
+    },
+    {
+      "url": "https://www.bet365.com.au/sportsbook-static/web/footer/social_x.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 741,
+      "body_preview": "    <svg width=\"23px\" height=\"21px\" viewBox=\"0 0 23 21\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">\n    <g id=\"Twitter----Grey\" stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\">\n        <path class=\"fm-SVGComponent_SocialPath\" d=\"M8.92184578,11.5703628 L9.84377343,12.7782455 L2.03854867,21 L0,21 L8.92184578,11.5703628 Z M6.91054895,0.0"
+    },
+    {
+      "url": "https://www.bet365.com.au/sportsbook-static/web/footer/social_facebook.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 813,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"21\" height=\"21\" viewBox=\"0 0 21 21\">\n  <path class=\"fm-SVGComponent_SocialPath\" fill=\"#A7A7A7\" fill-rule=\"evenodd\" d=\"M21,10.5641691 C21,4.72973531 16.2989941,0 10.5,0 C4.70100586,0 0,4.72973531 0,10.5641691 C0,15.8370512 3.83969824,20.207481 8.859375,21 L8.859375,13.6178742 L6.19335938,13.6178742 L6.19335938,10.5641691 L8.859375,10.5641691 L8.859375,"
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/FooterReactModule/assets/Chevron_Down.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 230,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"8\" height=\"5\" viewBox=\"0 0 12 7\"><path class=\"fm-SVGComponent_Chevron\" fill=\"#b5b5b5\" fill-rule=\"evenodd\" d=\"M12 .784L11.243 0 6 5.431.757 0 0 .784l5.243 5.432L6 7l.757-.784z\"/></svg>"
+    },
+    {
+      "url": "https://www.bet365.com.au/sportsbook-static/web/footer/social_instagram.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 4714,
+      "body_preview": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<svg width=\"21px\" height=\"21px\" viewBox=\"0 0 21 21\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">\n    <title>Instagram_Glyph_999</title>\n    <g id=\"Instagram_Glyph_999\" stroke=\"none\" fill=\"none\" fill-rule=\"evenodd\" stroke-width=\"1\">\n        <g id=\"Layer_1\" transform=\"translate(-0, 0.0001)\" fill=\"#999999\">\n       "
+    },
+    {
+      "url": "https://www.bet365.com.au/Api/1/Blob?30,www-OC-sportsoc,ipt/24/%7Csr/45/SL%7Crmr/2/SL%7Crpr-Default/6/%7Crpr/30/SL%7Cntr/18/SL%7Ctrr/11/S%7Ccsa/10/SL%7Cms-Default/2/%7Cms/8/S%7Cfhr/25/SL",
+      "status": 200,
+      "content_type": "text/plain; charset=utf-8",
+      "bytes": 214954,
+      "body_preview": "\u0004(()=>{var e;window.IPPGReactLibX=window.IPPGReactLibX||{};var t=[e=>{e.exports=React},function(e,t,r){var i=this&&this.__awaiter||function(e,t,r,i){return new(r||(r=Promise))(function(n,s){function fulfilled(e){try{step(i.next(e))}catch(e){s(e)}}function rejected(e){try{step(i.throw(e))}catch(e){s(e)}}function step(e){e.done?n(e.value):function adopt(e){return e instanceof r?e:new r(function(t){t"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/FeaturedMatchesPlus/zClass_HorseRacing.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 3979,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"50\" height=\"50\" viewBox=\"0 0 50 50\"><g fill=\"none\" fill-rule=\"evenodd\"><g transform=\"translate(3)\"><path fill=\"#F7D09D\" d=\"M0,14.8082794 C3.59246157,21.3802434 9.73149904,26.8796774 17.3179138,29.890738 L17.2824605,30.0938887 C17.028379,31.3246039 15.4086094,37.9599743 12.4231516,50 L0,14.8082794 Z M41.873969,29.1867711 C42.7593916,30.9283734 43.74592"
+    },
+    {
+      "url": "https://www.bet365.com.au/leftnavcontentapi/validcompetitions?",
+      "status": 200,
+      "content_type": "application/json",
+      "bytes": 2,
+      "body_preview": "[]"
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/HeaderReactModule/assets/bet365_Logo_Inline.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 2250,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"95\" height=\"21\" viewBox=\"0 0 95 21\"><g fill=\"none\"><path fill=\"#FFE418\" d=\"M52.304 16.387c1.753 0 2.669-.592 2.669-1.83 0-1.212-.944-1.883-2.775-1.883-.679 0-1.49.054-2.379.189l0-4.088c.73.083 1.413.108 2.092.108 1.884 0 2.824-.565 2.824-1.853 0-1.263-.86-1.853-2.638-1.853-1.153 0-2.615.324-4.418.89l0-4.264c1.6-.567 3.532-.834 5.806-.834 4.945 0 7.795"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/LeagueLogo/wc26_logo.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 13637,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"169\" height=\"196\" viewBox=\"0 0 169 196\"><defs><linearGradient id=\"c\" x1=\"50%\" x2=\"50%\" y1=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#F6DF95\"/><stop offset=\"100%\" stop-color=\"#A5854D\"/></linearGradient><linearGradient id=\"d\" x1=\"50%\" x2=\"50%\" y1=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F6DF95\"/><stop o"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/LeagueLogo/WC26-TournamentChallenge.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 26491,
+      "body_preview": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<svg width=\"50px\" height=\"50px\" viewBox=\"0 0 50 50\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">\n    <title>WC26 Tournament Challenge</title>\n    <defs>\n        <path d=\"M25.0804092,-0.442066177 L25.7612297,-0.435868626 C28.6160149,-0.383958541 31.472692,-0.00664813939 34.1613606,0.669850651 L34.16,0 L46.32,0 L4"
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/ClassificationIconsLib/assets/specialevent/88.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 14981,
+      "body_preview": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<svg width=\"50px\" height=\"50px\" viewBox=\"0 0 50 50\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">\n    <title>WC26 Microsite</title>\n    <defs>\n        <path d=\"M46,50 L4.00000004,50 L4,0 L46,0 Z\" id=\"path-1\"></path>\n        <path d=\"M21.7206201,0.006899872 C25.3243428,0.0758206589 28.9297411,0.659893851 32.192432"
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/ClassificationIconsLib/assets/classification/NextToStart.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 502,
+      "body_preview": "<svg height=\"50\" viewBox=\"0 0 50 50\" width=\"50\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><defs><path id=\"a\" d=\"M0 0h50v50h-50z\"/></defs><g fill=\"none\" fill-rule=\"evenodd\" xlink:href=\"#a\"><use fill=\"none\" xlink:href=\"#a\"/><g fill=\"#d0eeff\" transform=\"translate(-1.313)\"><path d=\"m18.345 0 29.64 25-29.64 25 0-15.202 9.54-8.205 1.851-1.593-1.851-1.593-9.54-8.206zm0"
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/ClassificationIconsLib/assets/classification/12.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 4832,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"50\" height=\"50\" viewBox=\"0 0 50 50\"><g fill=\"none\" fill-rule=\"evenodd\"><path fill=\"#d57566\" d=\"M.075 37.87c3.765 4.914 7.487 8.84 11.368 12.098-5.382.187-9.439-.479-10.24-1.336C.46 47.835-.115 44.177.02 39.27zm1.427-10.077C8.163 37.511 14.5 43.901 21.596 48.686c-2.376.525-4.721.87-6.929 1.075C9.737 45.939 5.11 41.11.345 34.579c.22-2.014.557-4.127 1.03"
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/ClassificationIconsLib/assets/classification/36.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 2804,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"50\" height=\"50\" viewBox=\"0 0 50 50\"><g fill=\"none\" fill-rule=\"evenodd\"><path fill=\"#EB5556\" d=\"m38.95 37.317-1.357 1.417c-9.205 8.97-22.279 14.503-30.839 9.187 1.483-3.628 3.952-7.793 7.292-12.35 8.572-11.698 23.536-26.129 31.353-31.505 7.011 7.749 2.952 22.97-6.45 33.251Zm4.271-35.135-.279.2c-8.496 6.128-22.76 20.046-31.172 31.525-3.237 4.417-5.711 8"
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/ClassificationIconsLib/assets/classification/94.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 1273,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"50\" height=\"50\" viewBox=\"0 0 50 50\"><g fill=\"none\" fill-rule=\"evenodd\"><polygon fill=\"#FFF\" points=\"20.142 37.818 23.489 41.406 18.741 42.824 16.265 40.167\"/><polygon fill=\"#FFF\" points=\"13.528 30.726 18.538 36.098 14.702 38.49 10.828 34.339\"/><polygon fill=\"#FFF\" points=\"8.878 25.739 12.22 29.323 9.607 33.029 7.132 30.376\"/><path fill=\"#FFF\" d=\"M48.1"
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/ClassificationIconsLib/assets/classification/16.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 2175,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"50\" height=\"50\" viewBox=\"0 0 50 50\"><defs><linearGradient id=\"b\" x1=\"50%\" x2=\"50%\" y1=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFF\"/><stop offset=\"100%\" stop-color=\"#E4E4E4\"/></linearGradient><circle id=\"a\" cx=\"25\" cy=\"25\" r=\"25\"/><path id=\"d\" d=\"M42.678 42.678c9.763-9.763 9.763-25.593 0-35.356 7.406 21."
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/ClassificationIconsLib/assets/classification/18.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 1882,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"50\" height=\"50\" viewBox=\"0 0 50 50\"><g fill=\"none\" fill-rule=\"evenodd\"><path fill=\"#F0AD7A\" d=\"m41.372 43.96-.084.073c-3.993 3.421-9.076 5.608-14.656 5.967l0-18.486c3.329-.086 6.656-.436 9.98-1.05.507 4.52 2.098 9.02 4.76 13.495Zm-18.006-12.446 0 18.486c-5.62-.362-10.734-2.577-14.74-6.04 2.664-4.475 4.255-8.975 4.762-13.495 3.324.613 6.65.963 9.978 1."
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/ClassificationIconsLib/assets/classification/9.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 1090,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"50\" height=\"50\" viewBox=\"0 0 50 50\"><g fill=\"none\" fill-rule=\"evenodd\" transform=\"translate(7)\"><path fill=\"#EB5556\" d=\"M6.238 37.806c.262.135.525.233.787.292l.068.01-.004.03c5.918.838 12.035.838 18.346.005l.504-.068 0 7.99c0 2.173-1.764 3.935-3.94 3.935l-11.822 0c-2.176 0-3.94-1.762-3.94-3.935l.001-8.26Z\"/><path fill=\"#000\" d=\"m25.938 38.077.001 7.98"
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/ClassificationIconsLib/assets/classification/3.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 1796,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"50\" height=\"50\" viewBox=\"0 0 50 50\"><g fill=\"none\" fill-rule=\"evenodd\"><path fill=\"#EB5556\" d=\"M49.455 30.216c-2.4 11.304-12.437 19.784-24.455 19.784-12.018 0-22.056-8.48-24.455-19.784 6.356 3.473 14.515 5.193 24.455 5.193 9.91 0 18.05-1.71 24.399-5.161Zm.444-7.48c.067.746.101 1.501.101 2.264 0 .368-.008.734-.024 1.098-6.057 4.02-14.373 6.05-24.976 6."
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/ClassificationIconsLib/assets/classification/38.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 1672,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"50\" height=\"50\" viewBox=\"0 0 50 50\"><g fill=\"none\" fill-rule=\"evenodd\" transform=\"translate(0 10)\"><path fill=\"#FFF\" fill-rule=\"nonzero\" d=\"m39.798 9.881.134 0c5.56 0 10.068 4.501 10.068 10.055 0 5.553-4.508 10.055-10.068 10.055-5.561 0-10.069-4.502-10.069-10.055 0-2.944 1.267-5.593 3.286-7.432l.947-.455.821 2.308c-1.53 1.373-2.492 3.363-2.492 5.579 0"
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/ClassificationIconsLib/assets/classification/15.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 4672,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"50\" height=\"50\" viewBox=\"0 0 50 50\"><g fill=\"none\" fill-rule=\"evenodd\" transform=\"rotate(24 25 25)\"><circle cx=\"25\" cy=\"25\" r=\"25\" fill=\"#1A1A1A\"/><circle cx=\"24.999\" cy=\"25.062\" r=\"21.29\" fill=\"#6D6570\"/><path fill=\"#EB5556\" fill-rule=\"nonzero\" d=\"M25 3.772c11.757 0 21.29 9.532 21.29 21.29 0 11.758-9.533 21.29-21.29 21.29-11.76 0-21.291-9.532-21.291-"
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/ClassificationIconsLib/assets/classification/151.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 2402,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"50\" height=\"50\" viewBox=\"0 0 50 50\"><g fill=\"none\" fill-rule=\"evenodd\" transform=\"translate(0 9.42)\"><path fill=\"#7AC487\" d=\"m44.555 2.776.28.591c2.572 5.483 4.163 9.978 4.775 13.486.598 3.429.508 6.804-.268 10.124-.426 1.822-1.859 3.239-3.685 3.645l-.697.155c-1.924.428-3.838-.758-4.313-2.671l-.136-.546c-.85-3.398-1.61-6.16-2.282-8.288.655-.943 1.038-"
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/ClassificationIconsLib/assets/classification/10.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 1618,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"50\" height=\"50\" viewBox=\"0 0 50 50\"><g fill=\"none\" fill-rule=\"evenodd\" transform=\"translate(0 4)\"><polygon fill=\"#000\" points=\"13.908 9.265 46.325 9.25 46.313 35.158 13.897 35.173\" transform=\"rotate(22 30.11 22.212)\"/><polygon fill=\"#FFF\" points=\"18.49 5.116 24.973 5.113 24.97 11.59 18.487 11.593\" transform=\"rotate(22 21.73 8.353)\"/><polygon fill=\"#FF"
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/ClassificationIconsLib/assets/classification/37.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 1841,
+      "body_preview": "<svg height=\"50\" viewBox=\"0 0 50 50\" width=\"50\" xmlns=\"http://www.w3.org/2000/svg\"><g fill=\"none\" fill-rule=\"evenodd\" transform=\"translate(0 1.981)\"><path d=\"M38.806 7.461c-.336 2.888-4.41 7.956-12.221 15.202.018-.569.028-1.16.028-1.763 0-4.893-.704-8.86-1.572-8.86s-1.572 3.967-1.572 8.86c0 .605.01 1.195.031 1.766l-1.34-1.256c-6.94-6.581-10.568-11.23-10.884-13.949-.535-4.609 3.898-7.987 8.021-7.39"
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/ClassificationIconsLib/assets/classification/7.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 1772,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"50\" height=\"50\" viewBox=\"0 0 50 50\"><defs><path id=\"a\" d=\"M34.239 34.193c7.832-7.822 7.832-20.504 0-28.326 5.941 17.47-9.039 34.392-28.365 28.326 7.833 7.823 20.532 7.823 28.365 0Z\"/></defs><g fill=\"none\" fill-rule=\"evenodd\" transform=\"translate(5)\"><path fill=\"#ADDC9B\" d=\"M14.247 41.607c2.201.816 4.402 1.224"
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/ClassificationIconsLib/assets/classification/4.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 1134,
+      "body_preview": "<svg height=\"50\" viewBox=\"0 0 50 50\" width=\"50\" xmlns=\"http://www.w3.org/2000/svg\"><g fill=\"none\" fill-rule=\"evenodd\" transform=\"translate(0 4.85)\"><path d=\"M30.005.974c2.027.498 5.565.873 5.506.98-.671.548-2.896.593-4.784.595l-1.275 0c-1.1.006-1.834.043-1.61.256 7.692 5.417 12.646 10.208 14.864 14.372-5.811 6.775-10.132 10.412-14.71 11.76-.961-1.37-3.447-4.98-6.277-6.742-.994-.619-1.37-1.318-2.64"
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/ClassificationIconsLib/assets/classification/78.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 3549,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"50\" height=\"50\" viewBox=\"0 0 50 50\"><g fill=\"none\" fill-rule=\"evenodd\"><path fill=\"#F09759\" d=\"M40.976 43.343c-3.876 3.22-8.743 5.291-14.076 5.691l-.518.034-.001-1.981c2.943-.246 4.854-1.194 7.322-3.15l.268.012.67.015.667-.001.663-.016c1.325-.047 2.636-.186 3.971-.413l1.034-.191Zm-32.098-.121c2.138.562 4.252.805 7.1.798l.27-.005.077.062c2.15 1.69 3.92"
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/ClassificationIconsLib/assets/classification/88.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 2145,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"50\" height=\"50\" viewBox=\"0 0 50 50\"><g fill=\"none\" fill-rule=\"evenodd\" transform=\"translate(7)\"><path fill=\"#FFF\" fill-rule=\"nonzero\" d=\"M17.684 31.075c5.184 1.007 8.57 6.02 7.562 11.196-1.007 5.177-6.027 8.558-11.21 7.552-5.079-.986-8.431-5.817-7.618-10.88l1.954 1.587c.034 3.478 2.508 6.57 6.06 7.259 4.058.788 7.989-1.86 8.778-5.913.789-4.054-1.862-7"
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/ClassificationIconsLib/assets/classification/84.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 1355,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"50\" height=\"50\" viewBox=\"0 0 50 50\"><g fill=\"none\" fill-rule=\"evenodd\" transform=\"translate(0 4)\"><path fill=\"#FFF\" d=\"M38.184 0c6.322 0 11.447 5.118 11.447 11.432 0 1.822-.427 3.544-1.186 5.073-4.716-2.543-12.347-.577-12.458 5.413l-.012.733c-5.265-1.029-9.238-5.66-9.238-11.22 0-6.313 5.125-11.431 11.447-11.431Z\"/><path fill=\"#000\" d=\"M38.695 21.968c."
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/ClassificationIconsLib/assets/classification/2.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 2914,
+      "body_preview": "<svg height=\"50\" viewBox=\"0 0 50 50\" width=\"50\" xmlns=\"http://www.w3.org/2000/svg\"><g fill=\"none\" fill-rule=\"evenodd\" transform=\"translate(0 3.252)\"><g transform=\"translate(0 7.613)\"><path d=\"M9.76 9.423c3.032 5.547 10.841 12.629 17.244 15.17-1.281 2.87-1.764 6.471-1.45 10.804-3.315 2.393-21.825-4.682-25.554-7.527 3.32-9.731 4.419-11.228 9.76-18.447zm37.582 14.503c.747 1.47 1.987 2.943 2.468 4.281"
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/ClassificationIconsLib/assets/classification/17.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 689,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"50\" height=\"50\" viewBox=\"0 0 50 50\"><g fill=\"none\" fill-rule=\"evenodd\" transform=\"translate(.002 9)\"><path fill=\"#BEE3FC\" d=\"m49.997.002-.002 17.346c0 2.784-10.78 5.051-24.231 5.134l-.764.002c-13.805 0-24.996-2.3-24.996-5.136l-.002-17.346c3.994 2.586 13.535 3.969 24.998 3.969 11.462 0 21.004-1.383 24.997-3.97Z\" transform=\"translate(-.002 9.234)\"/><pat"
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/ClassificationIconsLib/assets/classification/143.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 3220,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"50\" height=\"50\" viewBox=\"0 0 50 50\"><g fill=\"none\" fill-rule=\"evenodd\" transform=\"translate(0 8)\"><path fill=\"#EBC7A2\" d=\"M10.222 23.093c.156 1.021.484 2.034.997 2.998l.189.34c.505.858 1.123 1.608 1.825 2.242-.957.62-2.124.679-3.09.25l-8.354 4.25-1.789-3.508 8.346-4.246c.169-.823.66-1.584 1.428-2.082l.226-.135.222-.109Zm2.73 1.746.89 1.62c-.256-.306-."
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/ClassificationIconsLib/assets/classification/162.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 1536,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"50\" height=\"50\" viewBox=\"0 0 50 50\"><g fill=\"none\" fill-rule=\"evenodd\" transform=\"translate(6)\"><path fill=\"#F7D0A9\" d=\"M9.064 1.56c1.756 0 3.18 1.421 3.18 3.174l0 2.87c-1.793.315-3.553.721-5.27 1.221l-1.089.33 0-4.42c0-1.687 1.316-3.066 2.978-3.17l.201-.005Zm24.642 2.365c.145 0 .29.013.432.04l.212.049c1.812.506 3.095 2.115 3.184 3.992l.038.788c-2.062"
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/ClassificationIconsLib/assets/classification/999.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 1938,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"30\" height=\"30\" viewBox=\"0 0 30 30\"><g fill=\"none\" fill-rule=\"evenodd\"><rect width=\"30\" height=\"30\"/><polygon fill=\"#505050\" fill-rule=\"nonzero\" points=\"0 0 30 0 30 30 0 30\" opacity=\"0\"/><path fill=\"#FDFDFB\" fill-rule=\"nonzero\" d=\"m18.85 2.568 6.86 12.64c-4.04.698-6.597 1.264-7.673 1.698-.484.254 1.26 1.655.908 2.033l-.02.018c-.96 1.934-11.279 6.51-12"
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/ClassificationIconsLib/assets/classification/27.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 1634,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"50\" height=\"50\" viewBox=\"0 0 50 50\"><g fill=\"none\" fill-rule=\"evenodd\" transform=\"translate(5)\"><path fill=\"#EB4D4E\" d=\"M20.017.016c14.627 0 20.158 9.715 20.158 20.384l-.018.983c-.348 13.33-5.095 28.617-20.14 28.617-15.417 0-20.017-16.05-20.017-29.6 0-10.669 5.39-20.384 20.017-20.384Zm17.544 15.52c-5.937 2.404-11.945 3.614-17.883 3.614-5.94 0-11.881-1"
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/ClassificationIconsLib/assets/classification/116.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 1063,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"50\" height=\"50\" viewBox=\"0 0 50 50\"><g fill=\"#F9D961\" fill-rule=\"evenodd\"><path d=\"m44.16 20.016 5.7 2.3c.093.871.14 1.756.14 2.651 0 13.789-11.193 24.967-25 24.967-13.807 0-25-11.178-25-24.967 0-.791.037-1.574.109-2.347l6.055-2.44c.395 3.698 4.396 3.063 10.252.45-.81 1.463-1.272 3.145-1.272 4.935 0 .901.118 1.776.337 2.608l-.425-.145c-4.082-1.303-9.2"
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/ClassificationIconsLib/assets/classification/147.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 3155,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"50\" height=\"50\" viewBox=\"0 0 50 50\"><g fill=\"none\" fill-rule=\"evenodd\"><path fill=\"#FFF\" d=\"M31.134 18.163c6.126 7.241 6.925 14.001 4.69 26.66l.217-.283c-2.433 3.389-8.265 5.094-9.354 4.074l.39-.838.201-.394.572-1.177c2.455-5.184 3.54-9.449 2.927-13.779-.44-3.104-1.797-5.963-4.166-8.528l-.154-.166c1.521-2.188 2.888-3.866 4.23-5.154l.447-.415Zm-19.088 "
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/ClassificationIconsLib/assets/classification/996.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 2338,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"30\" height=\"30\" viewBox=\"0 0 30 30\"><defs><polygon id=\"a\" points=\"0 0 19.787 0 19.787 12.665 0 12.665\"/><path id=\"c\" d=\"m0 0 24.239 0 0 .868c0 .958-.777 1.735-1.735 1.735l-20.77 0c-.958 0-1.734-.777-1.734-1.735l0-.868Z\"/></defs><g fill=\"none\" fill-rule=\"evenodd\"><rect width=\"30\" height=\"30\"/><polygon fill=\"#5"
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/ClassificationIconsLib/assets/classification/5.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 384,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"50\" height=\"50\" viewBox=\"0 0 50 50\"><g fill=\"none\" fill-rule=\"evenodd\"><polygon fill=\"#FBE76A\" points=\"25.285 30.732 16.82 36.603 19.795 26.749 11.588 20.523 21.892 20.303 25.285 10.584 28.678 20.303 38.982 20.523 30.775 26.749 33.75 36.603\"/><ellipse cx=\"25\" cy=\"24.967\" stroke=\"#FBE76A\" stroke-width=\"2\" rx=\"24\" ry=\"23.967\"/></g></svg>"
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/ClassificationIconsLib/assets/classification/157.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 913,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"50\" height=\"50\" viewBox=\"0 0 50 50\"><g fill=\"none\" fill-rule=\"evenodd\" transform=\"translate(3)\"><polygon fill=\"#F7D0A9\" points=\"43.163 30.406 43.164 50 0 50 0 30.406\"/><rect width=\"7.554\" height=\"19.668\" x=\"35.61\" y=\"30.332\" fill=\"#000\" opacity=\".3\"/><path fill=\"#E0BE9C\" d=\"m43.164 15.624 0 12.535-43.164 0 0-12.535 43.164 0Zm-9.054 3.623-25.056 0c-.82"
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/ClassificationIconsLib/assets/classification/19.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 2679,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"50\" height=\"50\" viewBox=\"0 0 50 50\"><g fill=\"none\" fill-rule=\"evenodd\"><path fill=\"#FFF\" d=\"M43.073 1.698c3.174 4.244 3.955 22.786-6.44 35.159-10.054 11.965-27.515 14.535-32.928 12.525.991-5.055 3.79-10.73 8.012-16.725.631.496 1.301.926 2.009 1.288l.182.076c.557.179 1.178-.066 1.453-.603.307-.596.07-1.327-.527-1.633-.596-.305-1.16-.67-1.692-1.099 1.56"
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/ClassificationIconsLib/assets/classification/8.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 3655,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"50\" height=\"50\" viewBox=\"0 0 50 50\"><g fill=\"none\" fill-rule=\"evenodd\"><path fill=\"#FFF\" d=\"m39.201 37.632-1.34 1.403c-7.451 7.266-17.544 12.17-25.73 10.706 6.788-.322 15.262-4.909 22.916-12.213l.682-.661 1.347-1.396c6.77-7.277 11.09-15.93 11.648-22.91.954 7.93-2.894 17.79-9.523 25.07Zm-23.683-22.766c10.386-10.094 23.597-14.764 28.34-9.862l.23.253c4.4"
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/ClassificationIconsLib/assets/classification/113.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 892,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"50\" height=\"50\" viewBox=\"0 0 50 50\"><g fill=\"none\" fill-rule=\"evenodd\" transform=\"translate(0 3)\"><path fill=\"#83B3F9\" fill-rule=\"nonzero\" d=\"m22.294 0 0 32.945c-.536-2.83-.982-5.5-1.337-8.01l.002-24.935 1.335 0Z\"/><path fill=\"#FFF\" d=\"M22.967 34.135c2.965-8.743 4.512-17.5 1.373-31.802 10.893 6.02 19.26 14.673 22.06 29.124-9.777-2.167-17.588-1.274-23."
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/ClassificationIconsLib/assets/classification/14.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 1839,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"50\" height=\"50\" viewBox=\"0 0 50 50\"><defs><path id=\"b\" d=\"M42.307 31.605c4.249 0 7.693-3.44 7.693-7.682 0-4.244-3.444-7.683-7.693-7.683 2.074.493 5.063 3.437 5.063 7.34 0 3.905-3.314 7.573-5.063 8.025Z\"/><path id=\"c\" d=\"M24.98 31.947c4.249 0 7.693-3.44 7.693-7.683 0-4.243-3.444-7.683-7.693-7.683 2.075.494 5.0"
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/ClassificationIconsLib/assets/classification/1.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 1902,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"50\" height=\"50\" viewBox=\"0 0 50 50\"><g fill=\"none\" fill-rule=\"evenodd\"><path fill=\"#FFF\" d=\"M24.848 0c2.886 0 5.658.49 8.238 1.39.737.72 1.484 1.642 2.243 2.802 2.442.521 4.714 1.433 6.919 2.856 4.687 4.545 7.6 10.908 7.6 17.952l-.002.223c-.004-.018-.008-.035-.012-.052-.267 1.594-1.142 3.408-2.927 5.55.207 2.392.023 4.74-.629 7.162-4.376 7.261-12.336 "
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/ClassificationIconsLib/assets/classification/24.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 2736,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"50\" height=\"50\" viewBox=\"0 0 50 50\"><g fill=\"none\" fill-rule=\"evenodd\" transform=\"translate(4)\"><path fill=\"#FFF\" d=\"m24.21 29.074 3.726 2.295c3.208.194 8.635-.662 11.597-3.352-.784 5.074-2.602 10.005-4.67 14.9-5.673 4.095-10.404 6.513-14.094 7.083l.245-.042-.002.042-.123-.02-.12.02-.004-.042-.081-.013c-3.642-.658-8.26-3.054-13.766-7.027-2.069-4.896-3"
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/ClassificationIconsLib/assets/classification/148.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 2057,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"50\" height=\"50\" viewBox=\"0 0 50 50\"><g fill=\"none\" fill-rule=\"evenodd\" transform=\"translate(1)\"><path fill=\"#FFF\" d=\"m35.545 26.61.284 8.313.002.046-5.342 6.706c-2.432 3.052-5.68 5.35-9.368 6.627-3.729 1.291-7.67 1.855-11.612 1.66l-6.437-.316.772-3.379c.767-3.359 2.58-6.388 5.175-8.653 2.661-2.322 5.457-4.484 8.374-6.474l3.888-2.654-2.543 9.658-5.125 "
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/ClassificationIconsLib/assets/classification/92.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 4655,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"50\" height=\"50\" viewBox=\"0 0 50 50\"><g fill=\"none\" fill-rule=\"evenodd\"><path fill=\"#EB5556\" d=\"M14.681.002c2.197.039 4.27.569 6.115 1.485-3.777 3.627-5.92 8.613-5.92 13.853l0 4.572c0 4.348 1.913 8.43 5.154 11.211-.686.129-1.399.19-2.127.177l-7.535-.131c-5.827-.102-10.468-4.901-10.366-10.72l.111-6.397c.138-7.897 6.66-14.188 14.568-14.05Zm7.94 3.662.14-"
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/ClassificationIconsLib/assets/classification/13.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 1252,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"50\" height=\"50\" viewBox=\"0 0 50 50\"><defs><path id=\"a\" d=\"M42.646 42.696c9.738-9.738 9.738-25.527 0-35.265 7.387 21.75-11.237 42.817-35.265 35.265 9.738 9.739 25.527 9.739 35.265 0Z\"/></defs><g fill=\"none\" fill-rule=\"evenodd\"><path fill=\"#E0FB85\" d=\"m10.963 4.275.02.066c.578 1.968.452 3.798-.315 6.158l-.446 1"
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/ClassificationIconsLib/assets/classification/91.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 2778,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"50\" height=\"50\" viewBox=\"0 0 50 50\"><g fill=\"none\" fill-rule=\"evenodd\" transform=\"translate(0 1)\"><path fill=\"#F6D551\" d=\"M21.732 39.6c4.833 3.258 10.683 4.97 16.577 4.939-4.945 3.059-11.086 4.163-16.26 3.482-.018-.099-.04-.236-.067-.412l-.042-.294c-.044-.323-.097-.734-.158-1.233-.308-2.175-.314-4.353-.05-6.481Zm6.438-24.504c.715 1.226 1.336 2.556 1.8"
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/ClassificationIconsLib/assets/classification/110.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 3168,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"50\" height=\"50\" viewBox=\"0 0 50 50\"><g fill=\"none\" fill-rule=\"evenodd\"><path fill=\"#FBE76A\" d=\"M31.134 18.14c6.126 7.23 6.925 13.982 4.69 26.624l.217-.282c-2.433 3.384-8.265 5.087-9.354 4.068l.39-.837.201-.394.572-1.175c2.455-5.177 3.54-9.436 2.927-13.76-.44-3.101-1.797-5.956-4.166-8.517l-.154-.167c1.521-2.185 2.888-3.86 4.23-5.146l.447-.415Zm-19.088 "
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/ClassificationIconsLib/assets/classification/998.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 3124,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"30\" height=\"30\" viewBox=\"0 0 30 30\"><g fill=\"none\" fill-rule=\"evenodd\"><rect width=\"30\" height=\"30\"/><polygon fill=\"#505050\" fill-rule=\"nonzero\" points=\"0 0 30 0 30 30 0 30\" opacity=\"0\"/><path fill=\"#FFF\" fill-rule=\"nonzero\" d=\"M15.147 19.471c.455 0 .883.417.883.895 0 .338-.187.648-.486.805l-.037.018 0 2.658 1.707 1.333c.162.116.198.341.083.503-.116.1"
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/ClassificationIconsLib/assets/classification/118.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 2019,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"50\" height=\"50\" viewBox=\"0 0 50 50\"><g fill=\"none\" fill-rule=\"evenodd\" transform=\"translate(0 7)\"><path fill=\"#639AEB\" d=\"m24.855 4.79 6.78.63 3.458 2.418-.07.393-.062.405c-.51 3.767.755 7.216 8.918 9.43l-.972 1.416-1.34.495-4.311-.495-4.18-2.474-1.314-2.352 1.741-3.036-10.938-6.256 2.29-.573Zm-5.806 1.457.943-.237 11 6.292-.548.953-11.395-7.008Z\"/><p"
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/ClassificationIconsLib/assets/classification/121.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 1662,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"50\" height=\"50\" viewBox=\"0 0 50 50\"><g fill=\"none\" fill-rule=\"evenodd\" transform=\"translate(2)\"><polygon fill=\"#F7D09D\" points=\"36.663 3.222 40.815 1.879 43.913 3.708 44.254 6.272 45.45 8.394 43.744 9.235 42.502 11.2 40.815 10.952 38.13 12.253 35.466 8.242\"/><path fill=\"#639AEB\" d=\"m44.096 2.715.093 3.01-7.93-.846c.143-6.51 7.578-5.731 7.837-2.164l0 0"
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/BetBoostReactLib/assets/BetBoostBadgesMono/Bet-Boost-30.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 3408,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"94px\" height=\"12px\" viewBox=\"0 0 94 12\"><g id=\"prefix__Bet-Boost-en\" stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><g id=\"prefix__{word-1?}\" transform=\"translate(0.050000, 0.995000)\" fill=\"#28FFBB\" fill-rule=\"nonzero\"><path d=\"M4.17 10.005c1.23 0 2.175-.39 2.715-.945.375-.375.735-1.02.735-1.965 0-.795-.27-1.44-.675-1.83-.315-.3-.84-.5"
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/BetBoostReactLib/assets/FlameMono.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 555,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 11 14\"><g clip-path=\"url(#a)\"><path fill=\"#FDC879\" d=\"M4.473.059C4.527-.285 7.19.859 7.3 4.16c0 .636-.736 2.196.517 2.45 1.544.203 1.155-1.91 1.426-1.67C10.324 5.895 11 7.257 11 8.77 11 11.66 8.537 14 5.5 14S0 11.659 0 8.77c0-1.722.768-3.468 2.12-4.42.7-.494 1.98-1.929 2.353-4.292zm.43 6.552q-2.57 1.458-2.176 3.79.392 2.334 2.773 2.4"
+    },
+    {
+      "url": "https://www.bet365.com.au/sportsbook-static/web/footer/gambling_help.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 1799,
+      "body_preview": "<svg height=\"24\" viewBox=\"0 0 29 24\" width=\"29\" xmlns=\"http://www.w3.org/2000/svg\"><g fill=\"none\"><path d=\"m7.36 9.446c-1.943.116-3.727.68-5.032 1.595-.343.238-.959.849-1.147 1.133-.19887425.2928071-.3544762.6127678-.462.95-.183.625-.14 2.476.09 3.8.308 1.794.961 2.79 1.86 2.837.08.003 1.865.006 3.968.003l3.821-.006-.02-.198c-.099-.92-.108-3.08-.018-3.463.1369091-.5633073.3784317-1.0958783.712-1.5"
+    },
+    {
+      "url": "https://www.bet365.com.au/sportsbook-static/web/footer/northernterritorygvmnt.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 5579,
+      "body_preview": "<svg height=\"28\" viewBox=\"0 0 79 28\" width=\"79\" xmlns=\"http://www.w3.org/2000/svg\"><g fill=\"#999\"><path d=\"m35.254 11.187-3.063-5.325v5.325h-1.36v-7.324h1.548l3.029 5.331v-5.331h1.36v7.324zm6.239-6.146c-1.407 0-2.477 1.07-2.477 2.484a2.454 2.454 0 0 0 2.477 2.477c1.386 0 2.416-1.057 2.416-2.464 0-1.406-1.056-2.497-2.416-2.497m.007 6.273c-2.147 0-3.857-1.676-3.857-3.782 0-2.14 1.683-3.796 3.863-3.7"
+    },
+    {
+      "url": "https://www.bet365.com.au/sportsbook-static/web/footer/18.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 1067,
+      "body_preview": "<svg height=\"24\" viewBox=\"0 0 24 24\" width=\"24\" xmlns=\"http://www.w3.org/2000/svg\"><g fill=\"#9a9a9a\" fill-rule=\"evenodd\"><path d=\"m12 22.13c5.595 0 10.13-4.535 10.13-10.13s-4.535-10.13-10.13-10.13c-5.595 0-10.13 4.535-10.13 10.13s4.535 10.13 10.13 10.13zm0 1.87c-6.627 0-12-5.373-12-12s5.373-12 12-12 12 5.373 12 12-5.373 12-12 12z\" fill-rule=\"nonzero\"/><path d=\"m10.994 11.757c-.66-.337-.99-.853-.99"
+    },
+    {
+      "url": "https://www.bet365.com.au/sportsbook-static/web/footer/responsiblewageringaustralia.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 1039,
+      "body_preview": "<svg height=\"24\" viewBox=\"0 0 24 24\" width=\"24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m24 0v24h-24v-24zm-4.8983013 7.72185184h-2l-1.501357 8.66511836 1.359-.0001184.223985-1.9155802h1.7818257l.2181893 1.9155802 1.3647957.0001184zm-9.31142563-.02216256h-1.57475356l1.66419142 8.68728092 1.33615337-.0043379.8990867-5.5587782h.1613017l.9840683 5.5587782h1.2812818l1.5083842-8.68294302h-1.3931343l"
+    },
+    {
+      "url": "https://www.bet365.com.au/sportsbook-static/web/footer/betstop.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 131002,
+      "body_preview": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<svg width=\"216px\" height=\"62px\" viewBox=\"0 0 216 62\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">\n    <title>BETSTOP</title>\n    <defs>\n        <path d=\"M11.7049453,0 C11.1704746,0.064526479 10.656059,0.200637021 10.1717261,0.399257589 L10.1717261,0.399257589 L10.1717261,0.403290494 L10.1606958,0.403290494 C10."
+    },
+    {
+      "url": "https://www.bet365.com.au/sportsbook-static/web/footer/bet365-logo.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 5376,
+      "body_preview": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<svg width=\"95px\" height=\"21px\" viewBox=\"0 0 95 21\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">\n    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->\n    <title>Logo</title>\n    <desc>Created with Sketch.</desc>\n    <g id=\"Published\" stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\">\n     "
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/FeaturedMatchesPlus/zClass_HorseRacing2.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 4948,
+      "body_preview": "<svg height=\"50\" viewBox=\"0 0 50 50\" width=\"50\" xmlns=\"http://www.w3.org/2000/svg\"><g fill=\"none\" fill-rule=\"evenodd\" transform=\"translate(0 3.2517)\"><g transform=\"translate(0 7.6134)\"><path d=\"m9.76003059 9.42309897c3.03215811 5.54695833 10.84119451 12.62861523 17.24438321 15.17005153-1.2813689 2.8698602-1.7648348 6.4712278-1.4503975 10.804103-3.3148448 2.3927228-21.82502946-4.6826469-25.5540163-"
+    },
+    {
+      "url": "https://www.bet365.com.au/Api/1/Blob?30,www-OC-sportsoc,bzm/7/S%7Cotr/3/S%7Cpm-AU/27/SL%7Clp/16/S%7Cpm/29/SL%7Cbcc-Default/12/%7Cbcc/25/%7Cbcl5-AU/12/%7Cbcl5/98/%7Cbsl-AU/17/%7Cbul/6/SL%7Cbrcl/8/SL%7Cbs-AU/16/L%7CPlayerImagesLib-Default/11/%7CPlayerImagesLib/12/S%7Cbbl-Default/13/%7Cofl-Default/13/%7Cofl/34/%7Cprs/13/SL%7Csob-Default/11/%7Csob/72/SL%7Ctfl/10/S%7Cbbl/202/SL%7Cblib-Default/6/%7Cblib/4/%7Cbol-Default/6/%7Crbl/5/%7Cbol/39/SL%7Cbsl2-Default/14/%7Cbsl2/122/%7Cbsw/6/S%7Cmal/25/S%7Cbs/121/SL%7Cbsl/130/SL%7Csrw-AU/4/S%7Csrw/3/%7Call/20/SL%7Calm-AU/11/%7Calm/32/SL%7Cmbs/21/%7Cmbb/11/%7Cfbm/3/%7Cqd/34/S",
+      "status": 200,
+      "content_type": "text/plain; charset=utf-8",
+      "bytes": 2308254,
+      "body_preview": "\u0004var SITE_ROOT_PATH=\"sportsoc\";function appModule(e){e=ns_gen5_ui.Module.getRoot(e).parent.appModule;return e&&e.getModule()}(()=>{var e,s,t,a,i,r,o,n,l,d,h;{n=e=e||{},l=ns_gen5_ui.Component;class g extends l{constructor(e){super(),this.messageDisplayed=!1,this.brazeMessage=e}initialize(){super.initialize(),this.createBrazeMessage()}createBrazeMessage(){braze.showInAppMessage(this.brazeMessage,thi"
+    },
+    {
+      "url": "https://www.bet365.com.au/notfoundcontentapi/notfound?lid=30&zid=0&pd=%23SPOTLIGHT29801%23&cid=13&cgid=2&ctid=13&csid=99",
+      "status": 200,
+      "content_type": "text/plain; charset=utf-8",
+      "bytes": 67,
+      "body_preview": "F|CL;ID=;IT=#SPOTLIGHT29801#;|EV;ID=EV1;IT=CC-EV_#SPOTLIGHT29801#;|"
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/BrazeModule/assets/braze-5.8.1.min.js",
+      "status": 200,
+      "content_type": "application/javascript",
+      "bytes": 222909,
+      "body_preview": "/*\n* Braze Web SDK v5.8.1\n* (c) Braze, Inc. 2025 - http://braze.com\n* License available at https://github.com/braze-inc/braze-web-sdk/blob/master/LICENSE\n* Compiled on 2025-03-18\n*/\n(function(){(function(b,a){if(\"function\"===typeof define&&define.amd)define([],a);else if(\"object\"===typeof module&&module.exports){var e = a();module.exports=e;module.exports.default=e}else if(b.braze){var d=a(),c;for"
+    },
+    {
+      "url": "https://www.bet365.com.au/Api/1/Blob?30,www-OC-sportsoc,sbc/17/SL%7Cbcl3/40/%7Cbcl4/26/%7Cbut/30/%7Cbal/56/%7Cbld/3/%7Cbss-Default/15/%7Cmbc/61/%7Cmb-Default/14/%7Cmb/74/S%7Cpos/4/%7Cbss/198/SL%7Cbsm-AU/59/SL%7Cbsm/39/SL",
+      "status": 200,
+      "content_type": "text/plain; charset=utf-8",
+      "bytes": 831704,
+      "body_preview": "\u0004var SITE_ROOT_PATH=\"sportsoc\";function appModule(e){e=ns_gen5_ui.Module.getRoot(e).parent.appModule;return e&&e.getModule()}(()=>{var e,i,r,s,a,o,p,n,d,t,l,u,h,f;{t=e=e||{},l=ns_gen5_ui.Component,u=ns_gen5_ui.Label,h=ns_gen5_ui.DomElement,f=ns_gen5_util.WidthStateWatcher;class c extends l{constructor(e){super(),this.delegate=e}createChildren(){this.addStyle(\"sbc-SkipConfirmBetPopup\");var e=new h,"
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/BetslipStandardUILib/assets/betbuilder/bs-BetBuilderLogo-30.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 3399,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"116\" height=\"10\" viewBox=\"0 0 116 10\"><g fill=\"none\" fill-rule=\"evenodd\"><g fill=\"#444\" fill-rule=\"nonzero\" transform=\"translate(.208 .16)\"><path d=\"M4.147 0c-1.833 0-3.185 1.157-3.185 2.73 0 1.17.455 1.729 2.002 2.509.819.403 1.014.611 1.014.988 0 .533-.468.884-1.157.884-.598 0-1.053-.182-1.833-.715l-.988 1.664c1.157.715 1.885.949 2.925.949 1.937 0 3"
+    },
+    {
+      "url": "https://sdk.optimove.net/v2/websdk/?tenant_id=1376&tenant_token=265e8121f5b942e6af7541a77816d5f7",
+      "status": 200,
+      "content_type": "text/javascript; charset=utf-8",
+      "bytes": 491325,
+      "body_preview": "var optimoveTenantConfiguration = {\"id\":0,\"sdkVersion\":\"1.0.6\",\"configurationFileVersion\":{\"major\":1,\"minor\":0,\"build\":0,\"revision\":0,\"majorRevision\":0,\"minorRevision\":0},\"version\":\"1.0.6\",\"realtimeMetaData\":{\"realtimeToken\":\"265e8121f5b942e6af7541a77816d5f7\",\"realtimeGateway\":\"https://realtime-1376.optimove.net/\",\"options\":{\"showDimmer\":true,\"showWatermark\":false}},\"optitrackMetaData\":{\"sendUserA"
+    },
+    {
+      "url": "https://www.bet365.com.au/userpreferencesapi/retrievesingle?p=sbc",
+      "status": 200,
+      "content_type": "text/plain",
+      "bytes": 43,
+      "body_preview": "{\"enabled\":true,\"timestamp\":13408291236159}"
+    },
+    {
+      "url": "https://realtime-1376.optimove.net/reportEvent",
+      "status": 200,
+      "content_type": "application/json",
+      "bytes": 77,
+      "body_preview": "{\"IsSuccess\":true,\"Data\":false,\"Metadata\":{\"eventNotExistsInCampaigns\":true}}"
+    },
+    {
+      "url": "https://stream-1376.optimove.net/",
+      "status": 200,
+      "content_type": "application/json; charset=utf-8",
+      "bytes": 50,
+      "body_preview": "{\"status\":\"success\",\"message\":\"20145403284073782\"}"
+    },
+    {
+      "url": "https://stream-1376.optimove.net/",
+      "status": 200,
+      "content_type": "application/json; charset=utf-8",
+      "bytes": 50,
+      "body_preview": "{\"status\":\"success\",\"message\":\"19731860942921354\"}"
+    },
+    {
+      "url": "https://realtime-1376.optimove.net/reportEvent",
+      "status": 200,
+      "content_type": "application/json; charset=utf-8",
+      "bytes": 150,
+      "body_preview": "{\"IsSuccess\":false,\"Data\":false,\"Metadata\":{\"actionChannelId\":null,\"campaignDetailId\":null},\"message\":\"Event is duplicated and will not be processed\"}"
+    },
+    {
+      "url": "https://sdkuaservice.optimove.net/",
+      "status": 200,
+      "content_type": "application/json",
+      "bytes": 411,
+      "body_preview": "{\n  \"ua\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0\",\n  \"browser\": {\n    \"name\": \"Edge\",\n    \"version\": \"149.0.0.0\",\n    \"major\": \"149\"\n  },\n  \"engine\": {\n    \"name\": \"Blink\",\n    \"version\": \"149.0.0.0\"\n  },\n  \"os\": {\n    \"name\": \"Windows\",\n    \"version\": \"10\"\n  },\n  \"device\": {},\n  \"cpu\": {\n    \"architecture\": \"a"
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/RacingPodReactLib/assets/racing/AUS_Traps_25x25.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 6590,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"25\" height=\"250\" viewBox=\"0 0 25 250\"><g fill=\"none\"><rect width=\"25\" height=\"25\" fill=\"#474747\" rx=\"2\"/><rect width=\"23\" height=\"23\" x=\"1\" y=\"1\" fill=\"#cd2822\" rx=\"1\"/><polygon fill=\"#f0f0f0\" points=\"14.223 17 14.223 7.84 12.313 7.84 9.945 9.472 9.945 11.255 12.192 9.707 12.306 9.707 12.306 17\"/><rect width=\"25\" height=\"25\" y=\"50\" fill=\"#474747\" rx=\""
+    },
+    {
+      "url": "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:611806613886:web:e0743176b570d421c2632f/webConfig",
+      "status": 200,
+      "content_type": "application/json; charset=UTF-8",
+      "bytes": 389,
+      "body_preview": "{\n  \"projectId\": \"hillsidepush001-d025f\",\n  \"appId\": \"1:611806613886:web:e0743176b570d421c2632f\",\n  \"databaseURL\": \"https://hillsidepush001-d025f.firebaseio.com\",\n  \"storageBucket\": \"hillsidepush001-d025f.firebasestorage.app\",\n  \"locationId\": \"us-central\",\n  \"authDomain\": \"hillsidepush001-d025f.firebaseapp.com\",\n  \"messagingSenderId\": \"611806613886\",\n  \"measurementId\": \"G-7FHE84QMGK\"\n}\n"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-7FHE84QMGK",
+      "status": 200,
+      "content_type": "application/javascript; charset=UTF-8",
+      "bytes": 498248,
+      "body_preview": "\n// Copyright 2012 Google Inc. All rights reserved.\n \n(function(){\n\nvar data = {\n\"resource\": {\n  \"version\":\"2\",\n  \n  \"macros\":[{\"function\":\"__e\"},{\"function\":\"__c\",\"vtp_value\":\"google.com.au\"},{\"function\":\"__c\",\"vtp_value\":0}],\n  \"tags\":[{\"function\":\"__ogt_auto_events\",\"priority\":18,\"vtp_enableOutboundClick\":true,\"vtp_enableScroll\":true,\"vtp_enableDownload\":true,\"vtp_enableHistoryEvents\":true,\"vtp"
+    },
+    {
+      "url": "https://www.bet365.com.au/mar/offersforyouapi/summary",
+      "status": 200,
+      "content_type": "application/json",
+      "bytes": 1355,
+      "body_preview": "{\"unusedOfferCount\":2,\"offers\":[{\"offerID\":\"4502\",\"isEngineOffer\":true,\"imgURL\":\"//images.ctfassets.net/sif2q8l0sqjx/1SvAPpSKjTTzNztJHgNf4E/24fd501edd45fe8578d7631b8a484a0e/ParramattaEels-vs-SouthSydneyRabbitohs_RiskFreeBet_Carousel_AUS.webp\",\"redeemed\":false,\"textField1\":\"Parramatta Eels v South Sydney Rabbitohs\",\"textField2\":\"Up to $25 in Bonus Bets\",\"textField3\":\"\",\"podStyle\":\"imageAndText\",\"bu"
+    },
+    {
+      "url": "https://www.bet365.com.au/Api/1/Blob?30,www-OC-sportsoc,grw/10/S%7Cobm-AU/25/L%7Cobm/74/L",
+      "status": 200,
+      "content_type": "text/plain; charset=utf-8",
+      "bytes": 43556,
+      "body_preview": "\u0004(()=>{window.GamingWidgetReactModuleX=window.GamingWidgetReactModuleX||{};var e,t=[function(e,t,i){\"use strict\";var a=this&&this.__decorate||function(e,t,i,a){var n,r=arguments.length,s=r<3?t:null===a?a=Object.getOwnPropertyDescriptor(t,i):a;if(\"object\"==typeof Reflect&&\"function\"==typeof Reflect.decorate)s=Reflect.decorate(e,t,i,a);else for(var o=e.length-1;o>=0;o--)(n=e[o])&&(s=(r<3?n(s):r>3?n("
+    },
+    {
+      "url": "https://www.bet365.com.au/offersapi/offers/v2/?countryid=13&countrystateid=99",
+      "status": 200,
+      "content_type": "text/plain; charset=utf-8",
+      "bytes": 35987,
+      "body_preview": "F|MA;OL=115;IT=OF_196745340;|MA;OL=115;IT=OF_196732653;|MA;OL=115;IT=OF_196740316;|MA;OL=114;IT=OF_194652637;|MA;OL=115;IT=OF_196797046;|MA;OL=114;IT=OF_194548032;|MA;OL=115;IT=OF_196737916;|MA;OL=115;IT=OF_196735534;|MA;OL=114,115;IT=OF_195286848;|MA;OL=115;IT=OF_196775608;|MA;OL=115;IT=OF_196733625;|MA;OL=115;IT=OF_196764393;|MA;OL=115;IT=OF_196759850;|MA;OL=115;IT=OF_196764100;|MA;OL=11,114,115"
+    },
+    {
+      "url": "https://www.bet365.com.au/offersapi/offersml?countryid=13&languageid=30&countrystateid=99",
+      "status": 200,
+      "content_type": "text/plain; charset=utf-8",
+      "bytes": 2985,
+      "body_preview": "F|MA;IT=#OFFERML_SLOVCOM;NA=Acca Boost;N2=;EX=6;IM=Acca-Boost_aus.svg;|MA;IT=#OFFERML_SOCSO;NA=Sub On Play On;N2=Sub On Play On;EX=11;IM=;|MA;IT=#OFFERML_USACOM;NA=Parlay Boost;N2=;EX=6;IM=Parlay-Boost_aus.svg;|MA;IT=#OFFERML_COLOMCOM;NA=Acca Boost;N2=;EX=6;IM=Acca-Boost_aus.svg;|MA;IT=#OFFERML_PSBASEBALL;NA=Early Payout;N2=EP;EX=9;IM=Early-Payout_aus.svg;|MA;IT=#OFFERML_PSBASKETBALL;NA=Early Payo"
+    },
+    {
+      "url": "https://www.bet365.com.au/offersapi/useroffers/?currencyid=3",
+      "status": 200,
+      "content_type": "text/plain; charset=utf-8",
+      "bytes": 28365,
+      "body_preview": "F|MA;ID=10108;IT=IO_10108;QF=;RD=145334663;MB=;VA=;US=0;IO=0;CL=0;PF=;ST=1;OT=5;MF=0;SU=;CI=0;OI=0;QS=;QE=;RS=2023-10-20T09:30:00.0000000;RE=;QO=;RO=;QB=0;RB=0;AO=0;OC=;BP=25.00;BT=2;RT=0;RF=0;QP=;QH=;QL=;QC=;RP=;RH=;RL=;RC=;BA=1;|MA;ID=17187;IT=IO_17187;QF=;RD=165672288,165672290,165672298,165672299,165672302,165672303,165672309,165672310,165672313,165672314,165672320,165672321,165672324,16567232"
+    },
+    {
+      "url": "https://www.bet365.com.au/offersapi/inplayoffers/?currencyid=3",
+      "status": 200,
+      "content_type": "text/plain; charset=utf-8",
+      "bytes": 28365,
+      "body_preview": "F|MA;ID=10108;IT=IO_10108;QF=;RD=145334663;MB=;VA=;US=0;IO=0;CL=0;PF=;ST=1;OT=5;MF=0;SU=;CI=0;OI=0;QS=;QE=;RS=2023-10-20T09:30:00.0000000;RE=;QO=;RO=;QB=0;RB=0;AO=0;OC=;BP=25.00;BT=2;RT=0;RF=0;QP=;QH=;QL=;QC=;RP=;RH=;RL=;RC=;BA=1;|MA;ID=17187;IT=IO_17187;QF=;RD=165672288,165672290,165672298,165672299,165672302,165672303,165672309,165672310,165672313,165672314,165672320,165672321,165672324,16567232"
+    },
+    {
+      "url": "https://www.bet365.com.au/Api/1/Blob?30,www-OC-sportsoc,rsh/20/S",
+      "status": 200,
+      "content_type": "text/plain; charset=utf-8",
+      "bytes": 6455,
+      "body_preview": "\u0004(()=>{window.StepUpVerificationHeaderReactModuleX=window.StepUpVerificationHeaderReactModuleX||{};var e,t=[e=>{\"use strict\";e.exports=window.ReactLib},e=>{\"use strict\";e.exports=ReactJSXRuntime},e=>{e.exports={container:\"rsh-8\",heading:\"rsh-f\",information:\"rsh-e\",informationbold:\"rsh-d\",informationwrapper:\"rsh-b\",button:\"rsh-2\",allowHover:\"allow-hover\"}},function(e,t,r){\"use strict\";var i=this&&t"
+    },
+    {
+      "url": "https://www.bet365.com.au/Api/1/Blob?30,www-OC-sportsoc,sem-Default/3/SL%7Ccrl/8/SL%7Cfgl/6/%7Chog-AU/2/%7Chog/2/%7Cnph-AU/13/%7Cnph/22/%7Csem/35/SL%7Cbrp-Default/2/%7Cbrp/22/SL%7Ccsm/12/S%7Cktr/5/SL%7Cpmm/7/SL%7Cff-Default/4/%7Ccbl/14/%7Cffl/10/%7Cipv/14/%7Cff/47/SL%7Cffr-AU/5/%7Cffr/33/SL",
+      "status": 200,
+      "content_type": "text/plain; charset=utf-8",
+      "bytes": 401148,
+      "body_preview": "\u0004(()=>{window.SpecialEventsReactModuleDefaultX=window.SpecialEventsReactModuleDefaultX||{};const e={};var t;e.getML=function(e,t){return window.SpecialEventsReactModuleDefaultX.ml[e]||t},e.lazyComponent=(e,t)=>(window.SpecialEventsReactModuleDefault=window.SpecialEventsReactModuleDefault||{},window.SpecialEventsReactModuleDefault[e]=t,t);var a=[function(e,t,a){\"use strict\";var l=this&&this.__impor"
+    },
+    {
+      "url": "https://www.bet365.com.au/specialeventcontentapi/gethomepods?lid=30&zid=0&pd=%23AS%23B1%23I%5E88%23J%5E1%23K%5E1%23&cid=13&cgid=2&ctid=13&crid=3&tcstid=2&cstid=2&cgid=2&ctid=13&csid=99",
+      "status": 200,
+      "content_type": "text/plain; charset=utf-8",
+      "bytes": 112869,
+      "body_preview": "F|CL;ID=1;CL=1;L3=World Cup Match;IT=#AS#B1#I^88#J^1#K^1#;OR=0;PV=specialeventcontentapi_0;|EV;ID=EV88;IT=CC-EV-AE;CC=World Cup Match;SO=1;TB=World Cup 2026,#AS#B1#I^88#J^1#K^1#;|MG;ID=88;IT=CC-MG-AE-MG_88;NA=World Cup 2026;N2=;CC=131901075;SY=hd;|MA;ID=1;IT=CC-MG-AE-MA_1;NA=Home;LS=1;PD=#AS#B1#I^88#J^1#K^1#;|MA;ID=2;IT=CC-MG-AE-MA_2;NA=Matches;PD=#AC#B1#C1#D1002#E131901075#G40#I^88#;|MA;ID=23;IT="
+    },
+    {
+      "url": "https://www.bet365.com.au/sportsnews/displaytab/en-au/1/0/0/videos-articles?style=v9&platformid=1",
+      "status": 200,
+      "content_type": "application/json; charset=utf-8",
+      "bytes": 46,
+      "body_preview": "{\"status\":\"204 No Content\",\"display\":\"false\"}\n"
+    },
+    {
+      "url": "https://www.bet365.com.au/sports-assets/sportsoc/MicrositesReactLib/assets/default/allFlag.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 4640,
+      "body_preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"27\" height=\"27\" viewBox=\"0 0 27 27\"><defs><circle id=\"a\" cx=\"12.5\" cy=\"12.5\" r=\"12.5\"/></defs><g fill=\"none\" fill-rule=\"evenodd\" transform=\"translate(1 1)\"><rect width=\"25\" height=\"25\" fill=\"#a4dbcf\" rx=\"12.5\"/><mask id=\"b\" fill=\"#fff\"><use xlink:href=\"#a\"/></mask><circle cx=\"12.5\" cy=\"12.5\" r=\"13\" stroke=\"#f"
+    },
+    {
+      "url": "https://www.bet365.com.au/Api/1/Blob?30,www-OC-sportsoc,ycl/16/SL%7Cumr/10/SL%7Cgr/3/SL%7Ctp/5/SL",
+      "status": 200,
+      "content_type": "text/plain; charset=utf-8",
+      "bytes": 80471,
+      "body_preview": "\u0004(()=>{window.StylingRCReactLibX=window.StylingRCReactLibX||{};const e={};var t;e.getML=function(e,t){return window.StylingRCReactLibX.ml[e]||t};var a=[e=>{\"use strict\";e.exports=ReactJSXRuntime},e=>{\"use strict\";e.exports=window.ns_gen5_data},e=>{\"use strict\";e.exports=window.ReactLib},e=>{\"use strict\";e.exports=React},(e,t,a)=>{\"use strict\";Object.defineProperty(t,\"__esModule\",{value:!0}),t.useM"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/V9FlagIcons/Australia.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 2082,
+      "body_preview": "<svg width=\"26px\" height=\"26px\" viewBox=\"0 0 26 26\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><defs><path d=\"M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0Z\" id=\"a\"/></defs><g fill=\"none\" fill-rule=\"evenodd\"><circle fill=\"#FFFFFF\" cx=\"13\" cy=\"13\" r=\"13\"/><g transform=\"translate(1.000000, 1.000000)\"><mask id=\"b\" fill=\"white\"><use xlink:hre"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/V9FlagIcons/Algeria.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 840,
+      "body_preview": "<svg width=\"26px\" height=\"26px\" viewBox=\"0 0 26 26\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><defs><path d=\"M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0Z\" id=\"a\"/></defs><g transform=\"translate(0.000000, -0.000000)\" fill=\"none\" fill-rule=\"evenodd\"><circle fill=\"#FFFFFF\" cx=\"13\" cy=\"13\" r=\"13\"/><g transform=\"translate(1.000000, 1.000000"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/V9FlagIcons/Argentina.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 6911,
+      "body_preview": "<svg width=\"26px\" height=\"26px\" viewBox=\"0 0 26 26\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><defs><path d=\"M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0Z\" id=\"a\"/></defs><g fill=\"none\" fill-rule=\"evenodd\"><circle fill=\"#FFFFFF\" cx=\"13\" cy=\"13\" r=\"13\"/><g transform=\"translate(1.000000, 1.000000)\"><mask id=\"b\" fill=\"white\"><use xlink:hre"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/V9FlagIcons/Austria.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 751,
+      "body_preview": "<svg width=\"26px\" height=\"26px\" viewBox=\"0 0 26 26\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><defs><path d=\"M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0Z\" id=\"a\"/></defs><g transform=\"translate(0.000000, -0.000000)\" fill=\"none\" fill-rule=\"evenodd\"><circle fill=\"#FFFFFF\" cx=\"13\" cy=\"13\" r=\"13\"/><g transform=\"translate(13.000000, 13.0000"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/V9FlagIcons/Belgium.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 650,
+      "body_preview": "<svg width=\"26px\" height=\"26px\" viewBox=\"0 0 26 26\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><defs><path d=\"M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0Z\" id=\"a\"/></defs><g fill=\"none\" fill-rule=\"evenodd\"><circle fill=\"#FFFFFF\" cx=\"13\" cy=\"13\" r=\"13\"/><g transform=\"translate(1.000000, 1.000000)\"><mask id=\"b\" fill=\"white\"><use xlink:hre"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/V9FlagIcons/Bosnia.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 1459,
+      "body_preview": "<svg width=\"26px\" height=\"26px\" viewBox=\"0 0 26 26\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><defs><path d=\"M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0Z\" id=\"a\"/></defs><g fill=\"none\" fill-rule=\"evenodd\"><circle fill=\"#FFFFFF\" cx=\"13\" cy=\"13\" r=\"13\"/><g transform=\"translate(1.000000, 1.000000)\"><mask id=\"b\" fill=\"white\"><use xlink:hre"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/V9FlagIcons/Brazil.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 1000,
+      "body_preview": "<svg width=\"26px\" height=\"26px\" viewBox=\"0 0 26 26\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><defs><circle id=\"c\" cx=\"4.64030132\" cy=\"4.64030132\" r=\"4.64030132\"/><path d=\"M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0Z\" id=\"a\"/></defs><g fill=\"none\" fill-rule=\"evenodd\"><circle fill=\"#FFFFFF\" cx=\"13\" cy=\"13\" r=\"13\"/><g transform=\"translat"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/V9FlagIcons/Canada.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 1172,
+      "body_preview": "<svg width=\"26px\" height=\"26px\" viewBox=\"0 0 26 26\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><defs><path d=\"M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0Z\" id=\"a\"/></defs><g fill=\"none\" fill-rule=\"evenodd\"><circle fill=\"#FFFFFF\" cx=\"13\" cy=\"13\" r=\"13\"/><g transform=\"translate(1.000000, 1.000000)\"><mask id=\"b\" fill=\"white\"><use xlink:hre"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/V9FlagIcons/CaboVerde.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 1692,
+      "body_preview": "<svg width=\"26px\" height=\"26px\" viewBox=\"0 0 26 26\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><defs><path d=\"M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0Z\" id=\"a\"/></defs><g fill=\"none\" fill-rule=\"evenodd\"><circle fill=\"#FFFFFF\" cx=\"13\" cy=\"13\" r=\"13\"/><g transform=\"translate(1.000000, 1.000000)\"><mask id=\"b\" fill=\"white\"><use xlink:hre"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/V9FlagIcons/Colombia.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 664,
+      "body_preview": "<svg width=\"26px\" height=\"26px\" viewBox=\"0 0 26 26\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><defs><path d=\"M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0Z\" id=\"a\"/></defs><g fill=\"none\" fill-rule=\"evenodd\"><circle fill=\"#FFFFFF\" cx=\"13\" cy=\"13\" r=\"13\"/><g transform=\"translate(1.000000, 1.000000)\"><mask id=\"b\" fill=\"white\"><use xlink:hre"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/V9FlagIcons/Croatia.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 2455,
+      "body_preview": "<svg width=\"26px\" height=\"26px\" viewBox=\"0 0 26 26\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><defs><path d=\"M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0Z\" id=\"a\"/><path d=\"M0 0h8.899v5.34A4.45 4.45 0 0 1 0 5.34V0Z\" id=\"c\"/></defs><g fill=\"none\" fill-rule=\"evenodd\"><circle fill=\"#FFFFFF\" cx=\"13\" cy=\"13\" r=\"13\"/><g transform=\"translate(1"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/V9FlagIcons/Curacao.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 1156,
+      "body_preview": "<svg height=\"26\" viewBox=\"0 0 26 26\" width=\"26\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><defs><path id=\"a\" d=\"m12 0c-6.627417 0-12 5.372583-12 12s5.372583 12 12 12 12-5.372583 12-12-5.372583-12-12-12z\"/><mask id=\"b\" fill=\"#fff\"><use fill=\"#fff\" fill-rule=\"evenodd\" xlink:href=\"#a\"/></mask></defs><g fill=\"none\" fill-rule=\"evenodd\"><circle cx=\"13\" cy=\"13\" fill=\"#"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/V9FlagIcons/Czech.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 596,
+      "body_preview": "<svg width=\"26px\" height=\"26px\" viewBox=\"0 0 26 26\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><defs><path d=\"M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0Z\" id=\"a\"/></defs><g fill=\"none\" fill-rule=\"evenodd\"><circle fill=\"#FFFFFF\" cx=\"13\" cy=\"13\" r=\"13\"/><g transform=\"translate(1.000000, 1.000000)\"><mask id=\"b\" fill=\"white\"><use xlink:hre"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/V9FlagIcons/DRCongo.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 875,
+      "body_preview": "<svg width=\"26px\" height=\"26px\" viewBox=\"0 0 26 26\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><defs><path d=\"M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0Z\" id=\"a\"/></defs><g fill=\"none\" fill-rule=\"evenodd\"><circle fill=\"#FFFFFF\" cx=\"13\" cy=\"13\" r=\"13\"/><g transform=\"translate(1.000000, 1.000000)\"><mask id=\"b\" fill=\"white\"><use xlink:hre"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/V9FlagIcons/Ecuador.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 14706,
+      "body_preview": "<svg width=\"26px\" height=\"26px\" viewBox=\"0 0 26 26\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><defs><path d=\"M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0Z\" id=\"a\"/><path d=\"M.06.988C.226.983.395.933.564.837c.255-.144.503-.358.808-.538.305-.18.49-.368.746-.274.255.094.326.15.466.15s.03.086.319.124c.29.038.363.081.49.195.126.113.424.247.5"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/V9FlagIcons/Egypt.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 7070,
+      "body_preview": "<svg width=\"26px\" height=\"26px\" viewBox=\"0 0 26 26\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><defs><path d=\"M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0Z\" id=\"a\"/><path d=\"M.82 2.014C.515 1.734.304 1.462.183 1.2A2.2 2.2 0 0 1 0 .273C.142.287.282.271.42.226.56.181.7.106.84 0c.142.106.282.181.42.226.139.045.279.06.42.047a2.2 2.2 0 0 1-.1"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/V9FlagIcons/England.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 572,
+      "body_preview": "<svg width=\"26px\" height=\"26px\" viewBox=\"0 0 26 26\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><defs><path d=\"M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0Z\" id=\"a\"/></defs><g fill=\"none\" fill-rule=\"evenodd\"><circle fill=\"#FFFFFF\" cx=\"13\" cy=\"13\" r=\"13\"/><g transform=\"translate(1.000000, 1.000000)\"><mask id=\"b\" fill=\"white\"><use xlink:hre"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/V9FlagIcons/France.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 650,
+      "body_preview": "<svg width=\"26px\" height=\"26px\" viewBox=\"0 0 26 26\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><defs><path d=\"M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0Z\" id=\"a\"/></defs><g fill=\"none\" fill-rule=\"evenodd\"><circle fill=\"#FFFFFF\" cx=\"13\" cy=\"13\" r=\"13\"/><g transform=\"translate(1.000000, 1.000000)\"><mask id=\"b\" fill=\"white\"><use xlink:hre"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/V9FlagIcons/Germany.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 677,
+      "body_preview": "<svg width=\"26px\" height=\"26px\" viewBox=\"0 0 26 26\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><defs><path d=\"M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0Z\" id=\"a\"/></defs><g fill=\"none\" fill-rule=\"evenodd\"><circle fill=\"#FFFFFF\" cx=\"13\" cy=\"13\" r=\"13\"/><g transform=\"translate(1.000000, 1.000000)\"><mask id=\"b\" fill=\"white\"><use xlink:hre"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/V9FlagIcons/Ghana.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 794,
+      "body_preview": "<svg width=\"26px\" height=\"26px\" viewBox=\"0 0 26 26\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><defs><path d=\"M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0Z\" id=\"a\"/></defs><g fill=\"none\" fill-rule=\"evenodd\"><circle fill=\"#FFFFFF\" cx=\"13\" cy=\"13\" r=\"13\"/><g transform=\"translate(1.000000, 1.000000)\"><mask id=\"b\" fill=\"white\"><use xlink:hre"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/V9FlagIcons/Haiti.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 11670,
+      "body_preview": "<svg width=\"26px\" height=\"26px\" viewBox=\"0 0 26 26\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><defs><path d=\"M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0Z\" id=\"a\"/><path id=\"c\" d=\"M0 0h7.918v7.918H0z\"/></defs><g fill=\"none\" fill-rule=\"evenodd\"><circle fill=\"#FFFFFF\" cx=\"13\" cy=\"13\" r=\"13\"/><g transform=\"translate(1.000000, 1.000000)\"><m"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/V9FlagIcons/Iran.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 5524,
+      "body_preview": "<svg width=\"26px\" height=\"26px\" viewBox=\"0 0 26 26\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><defs><path d=\"M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0Z\" id=\"a\"/></defs><g fill=\"none\" fill-rule=\"evenodd\"><circle fill=\"#FFFFFF\" cx=\"13\" cy=\"13\" r=\"13\"/><g transform=\"translate(1.000000, 1.000000)\"><mask id=\"b\" fill=\"white\"><use xlink:hre"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/V9FlagIcons/Iraq.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 1747,
+      "body_preview": "<svg width=\"26px\" height=\"26px\" viewBox=\"0 0 26 26\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><defs><path d=\"M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0Z\" id=\"a\"/></defs><g fill=\"none\" fill-rule=\"evenodd\"><circle fill=\"#FFFFFF\" cx=\"13\" cy=\"13\" r=\"13\"/><g transform=\"translate(1.000000, 1.000000)\"><mask id=\"b\" fill=\"white\"><use xlink:hre"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/V9FlagIcons/IvoryCoast.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 661,
+      "body_preview": "<svg width=\"26px\" height=\"26px\" viewBox=\"0 0 26 26\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><defs><path d=\"M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0Z\" id=\"a\"/></defs><g fill=\"none\" fill-rule=\"evenodd\"><circle fill=\"#FFFFFF\" cx=\"13\" cy=\"13\" r=\"13\"/><g transform=\"translate(1.000000, 1.000000)\"><mask id=\"b\" fill=\"white\"><use xlink:hre"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/V9FlagIcons/Japan.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 594,
+      "body_preview": "<svg width=\"26px\" height=\"26px\" viewBox=\"0 0 26 26\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><defs><path d=\"M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0Z\" id=\"a\"/></defs><g fill=\"none\" fill-rule=\"evenodd\"><circle fill=\"#FFFFFF\" cx=\"13\" cy=\"13\" r=\"13\"/><g transform=\"translate(1.000000, 1.000000)\"><mask id=\"b\" fill=\"white\"><use xlink:hre"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/V9FlagIcons/Jordan.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 884,
+      "body_preview": "<svg width=\"26px\" height=\"26px\" viewBox=\"0 0 26 26\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><defs><path d=\"M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0Z\" id=\"a\"/></defs><g fill=\"none\" fill-rule=\"evenodd\"><circle fill=\"#FFFFFF\" cx=\"13\" cy=\"13\" r=\"13\"/><g transform=\"translate(1.000000, 1.000000)\"><mask id=\"b\" fill=\"white\"><use xlink:hre"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/V9FlagIcons/Mexico.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 14703,
+      "body_preview": "<svg width=\"26px\" height=\"26px\" viewBox=\"0 0 26 26\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><defs><path d=\"M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0Z\" id=\"a\"/></defs><g fill=\"none\" fill-rule=\"evenodd\"><circle fill=\"#FFFFFF\" cx=\"13\" cy=\"13\" r=\"13\"/><g transform=\"translate(1.000000, 1.000000)\"><mask id=\"b\" fill=\"white\"><use xlink:hre"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/V9FlagIcons/Morocco.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 1038,
+      "body_preview": "<svg width=\"26px\" height=\"26px\" viewBox=\"0 0 26 26\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><defs><path d=\"M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0Z\" id=\"a\"/></defs><g fill=\"none\" fill-rule=\"evenodd\"><circle fill=\"#FFFFFF\" cx=\"13\" cy=\"13\" r=\"13\"/><g transform=\"translate(1.000000, 1.000000)\"><mask id=\"b\" fill=\"white\"><use xlink:hre"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/V9FlagIcons/Netherlands.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 677,
+      "body_preview": "<svg width=\"26px\" height=\"26px\" viewBox=\"0 0 26 26\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><defs><path d=\"M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0Z\" id=\"a\"/></defs><g fill=\"none\" fill-rule=\"evenodd\"><circle fill=\"#FFFFFF\" cx=\"13\" cy=\"13\" r=\"13\"/><g transform=\"translate(1.000000, 1.000000)\"><mask id=\"b\" fill=\"white\"><use xlink:hre"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/V9FlagIcons/NewZealand.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 2166,
+      "body_preview": "<svg width=\"26px\" height=\"26px\" viewBox=\"0 0 26 26\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><defs><path d=\"M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0Z\" id=\"a\"/></defs><g fill=\"none\" fill-rule=\"evenodd\"><circle fill=\"#FFFFFF\" cx=\"13\" cy=\"13\" r=\"13\"/><g transform=\"translate(1.000000, 1.000000)\"><mask id=\"b\" fill=\"white\"><use xlink:hre"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/V9FlagIcons/Norway.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 979,
+      "body_preview": "<svg width=\"26px\" height=\"26px\" viewBox=\"0 0 26 26\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><defs><path d=\"M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0Z\" id=\"a\"/></defs><g fill=\"none\" fill-rule=\"evenodd\"><circle fill=\"#FFFFFF\" cx=\"13\" cy=\"13\" r=\"13\"/><g transform=\"translate(1.000000, 1.000000)\"><mask id=\"b\" fill=\"white\"><use xlink:hre"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/V9FlagIcons/Panama.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 932,
+      "body_preview": "<svg width=\"26px\" height=\"26px\" viewBox=\"0 0 26 26\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><defs><path d=\"M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0Z\" id=\"a\"/></defs><g fill=\"none\" fill-rule=\"evenodd\"><circle fill=\"#FFFFFF\" cx=\"13\" cy=\"13\" r=\"13\"/><g transform=\"translate(1.000000, 1.000000)\"><mask id=\"b\" fill=\"white\"><use xlink:hre"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/V9FlagIcons/Paraguay.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 4649,
+      "body_preview": "<svg width=\"26px\" height=\"26px\" viewBox=\"0 0 26 26\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><defs><path d=\"M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0Z\" id=\"a\"/></defs><g fill=\"none\" fill-rule=\"evenodd\"><circle fill=\"#FFFFFF\" cx=\"13\" cy=\"13\" r=\"13\"/><g transform=\"translate(1.000000, 1.000000)\"><mask id=\"b\" fill=\"white\"><use xlink:hre"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/V9FlagIcons/Spain.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 17337,
+      "body_preview": "<svg width=\"26px\" height=\"26px\" viewBox=\"0 0 26 26\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><defs><path d=\"M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0Z\" id=\"a\"/><path d=\"M.94 7.048C-.165 6.525.01 5.48.01 4.323V0h5.74v4.323c0 1.157.176 2.202-.93 2.725-.739.35-1.385.511-1.94.486-.555.025-1.201-.137-1.94-.486Z\" id=\"c\"/><path d=\"M0 0h2.8"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/V9FlagIcons/Portugal.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 3252,
+      "body_preview": "<svg width=\"26px\" height=\"26px\" viewBox=\"0 0 26 26\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><defs><path d=\"M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0Z\" id=\"a\"/></defs><g fill=\"none\" fill-rule=\"evenodd\"><circle fill=\"#FFFFFF\" cx=\"13\" cy=\"13\" r=\"13\"/><g transform=\"translate(1.000000, 1.000000)\"><mask id=\"b\" fill=\"white\"><use xlink:hre"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/V9FlagIcons/USA.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 5323,
+      "body_preview": "<svg width=\"26px\" height=\"26px\" viewBox=\"0 0 26 26\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><defs><path d=\"M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0Z\" id=\"a\"/></defs><g fill=\"none\" fill-rule=\"evenodd\"><circle fill=\"#FFFFFF\" cx=\"13\" cy=\"13\" r=\"13\"/><g transform=\"translate(1.000000, 1.000000)\"><mask id=\"b\" fill=\"white\"><use xlink:hre"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/V9FlagIcons/Qatar.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 750,
+      "body_preview": "<svg width=\"26px\" height=\"26px\" viewBox=\"0 0 26 26\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><defs><path d=\"M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0Z\" id=\"a\"/></defs><g fill=\"none\" fill-rule=\"evenodd\"><circle fill=\"#FFFFFF\" cx=\"13\" cy=\"13\" r=\"13\"/><g transform=\"translate(1.000000, 1.000000)\"><mask id=\"b\" fill=\"white\"><use xlink:hre"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/V9FlagIcons/Switzerland.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 798,
+      "body_preview": "<svg width=\"26px\" height=\"26px\" viewBox=\"0 0 26 26\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><defs><path d=\"M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0Z\" id=\"a\"/></defs><g fill=\"none\" fill-rule=\"evenodd\"><circle fill=\"#FFFFFF\" cx=\"13\" cy=\"13\" r=\"13\"/><g transform=\"translate(1.000000, 1.000000)\"><mask id=\"b\" fill=\"white\"><use xlink:hre"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/V9FlagIcons/Scotland.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 686,
+      "body_preview": "<svg width=\"26px\" height=\"26px\" viewBox=\"0 0 26 26\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><defs><path d=\"M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0Z\" id=\"a\"/></defs><g fill=\"none\" fill-rule=\"evenodd\"><circle fill=\"#FFFFFF\" cx=\"13\" cy=\"13\" r=\"13\"/><g transform=\"translate(1.000000, 1.000000)\"><mask id=\"b\" fill=\"white\"><use xlink:hre"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/V9FlagIcons/SouthAfrica.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 900,
+      "body_preview": "<svg width=\"26px\" height=\"26px\" viewBox=\"0 0 26 26\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><defs><path d=\"M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0Z\" id=\"a\"/></defs><g fill=\"none\" fill-rule=\"evenodd\"><circle fill=\"#FFFFFF\" cx=\"13\" cy=\"13\" r=\"13\"/><g transform=\"translate(1.000000, 1.000000)\"><mask id=\"b\" fill=\"white\"><use xlink:hre"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/V9FlagIcons/SouthKorea.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 1855,
+      "body_preview": "<svg width=\"26px\" height=\"26px\" viewBox=\"0 0 26 26\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><defs><path d=\"M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0Z\" id=\"a\"/></defs><g fill=\"none\" fill-rule=\"evenodd\"><circle fill=\"#FFFFFF\" cx=\"13\" cy=\"13\" r=\"13\"/><g transform=\"translate(1.000000, 1.000000)\"><mask id=\"b\" fill=\"white\"><use xlink:hre"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/V9FlagIcons/Sweden.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 746,
+      "body_preview": "<svg width=\"26px\" height=\"26px\" viewBox=\"0 0 26 26\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><defs><path d=\"M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0Z\" id=\"a\"/></defs><g fill=\"none\" fill-rule=\"evenodd\"><circle fill=\"#FFFFFF\" cx=\"13\" cy=\"13\" r=\"13\"/><g transform=\"translate(1.000000, 1.000000)\"><mask id=\"b\" fill=\"white\"><use xlink:hre"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/V9FlagIcons/Tunisia.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 1124,
+      "body_preview": "<svg width=\"26px\" height=\"26px\" viewBox=\"0 0 26 26\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><defs><path d=\"M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0Z\" id=\"a\"/></defs><g fill=\"none\" fill-rule=\"evenodd\"><circle fill=\"#FFFFFF\" cx=\"13\" cy=\"13\" r=\"13\"/><g transform=\"translate(1.000000, 1.000000)\"><mask id=\"b\" fill=\"white\"><use xlink:hre"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/V9FlagIcons/Turkey.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 935,
+      "body_preview": "<svg width=\"26px\" height=\"26px\" viewBox=\"0 0 26 26\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><defs><path d=\"M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0Z\" id=\"a\"/></defs><g fill=\"none\" fill-rule=\"evenodd\"><circle fill=\"#FFFFFF\" cx=\"13\" cy=\"13\" r=\"13\"/><g transform=\"translate(1.000000, 1.000000)\"><mask id=\"b\" fill=\"white\"><use xlink:hre"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/V9FlagIcons/Senegal.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 792,
+      "body_preview": "<svg width=\"26px\" height=\"26px\" viewBox=\"0 0 26 26\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><defs><path d=\"M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0Z\" id=\"a\"/></defs><g fill=\"none\" fill-rule=\"evenodd\"><circle fill=\"#FFFFFF\" cx=\"13\" cy=\"13\" r=\"13\"/><g transform=\"translate(1.000000, 1.000000)\"><mask id=\"b\" fill=\"white\"><use xlink:hre"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/V9FlagIcons/Saudi.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 5916,
+      "body_preview": "<svg width=\"26px\" height=\"26px\" viewBox=\"0 0 26 26\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><defs><path d=\"M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0Z\" id=\"a\"/></defs><g fill=\"none\" fill-rule=\"evenodd\"><circle fill=\"#FFFFFF\" cx=\"13\" cy=\"13\" r=\"13\"/><g transform=\"translate(1.000000, 1.000000)\"><mask id=\"b\" fill=\"white\"><use xlink:hre"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/V9FlagIcons/Uruguay.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 7922,
+      "body_preview": "<svg width=\"26px\" height=\"26px\" viewBox=\"0 0 26 26\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><defs><path d=\"M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0Z\" id=\"a\"/></defs><g fill=\"none\" fill-rule=\"evenodd\"><circle fill=\"#FFFFFF\" cx=\"13\" cy=\"13\" r=\"13\"/><g transform=\"translate(1.000000, 1.000000)\"><mask id=\"b\" fill=\"white\"><use xlink:hre"
+    },
+    {
+      "url": "https://www.bet365.com.au/home/images/Home/imgs/V9FlagIcons/Uzbekistan.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 1861,
+      "body_preview": "<svg width=\"26px\" height=\"26px\" viewBox=\"0 0 26 26\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><defs><path d=\"M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0Z\" id=\"a\"/></defs><g fill=\"none\" fill-rule=\"evenodd\"><circle fill=\"#FFFFFF\" cx=\"13\" cy=\"13\" r=\"13\"/><g transform=\"translate(1.000000, 1.000000)\"><mask id=\"b\" fill=\"white\"><use xlink:hre"
+    },
+    {
+      "url": "https://www.bet365.com.au/Api/1/Blob?30,www-OC-sportsoc,rrc-Default/3/%7Ciml/6/%7Cpgu/2/SL%7Cyrb/6/SL%7Crrc/36/SL%7Crog/9/S%7Clfr/2/SL%7Cltm/3/SL%7Cbxr-Default/5/%7Cbxr/12/SL%7Cshl/23/S%7Csnm/39/SL%7Csbz/3/SL",
+      "status": 200,
+      "content_type": "text/plain; charset=utf-8",
+      "bytes": 346121,
+      "body_preview": "\u0004(()=>{window.StylingRCReactModuleDefaultX=window.StylingRCReactModuleDefaultX||{};var e,t=[,(e,t,l)=>{Object.defineProperty(t,\"__esModule\",{value:!0}),t.StylingRCReactModuleDefault=void 0;const a=l(2);class StylingRCReactModuleDefault extends a.Module{showExtraTimeBanner(){return!0}showExtraData(e){return!0}}t.StylingRCReactModuleDefault=StylingRCReactModuleDefault},e=>{e.exports=window.ns_gen5_u"
+    },
+    {
+      "url": "https://www.bet365.com.au/contentdata/matchmarketscontentapi/betboost?lid=30&zid=0&pd=%23AC%23B1%23C1%23D1003%23E98%23G131901075%23H%5E1%23I%5E88%23&cid=13&cgid=2&ctid=13&csid=99",
+      "status": 200,
+      "content_type": "",
+      "bytes": 64444,
+      "body_preview": "F|CL;ID=1;CL=1;L3=;IT=#AC#B1#C1#D1003#E98#G131901075#H^1#I^88#;OR=0;PV=matchmarketscontentapi_0;FF=GsHXHZIAJQIA;|EV;ID=EV88;IT=CC-EV-AE-AC;CC=;SO=1;|MG;ID=88;IT=CC-MG-AE-AC-MG_88;NA=World Cup 2026;N2=;SY=hd;CC=131901075;FF=;|MA;ID=1;IT=CC-MG-AE-AC-MA_1;NA=Home;PD=#AS#B1#I^88#J^1#K^1#;FF=;|MA;ID=2;IT=CC-MG-AE-AC-MA_2;NA=Matches;PD=#AC#B1#C1#D1002#E131901075#G40#I^88#;FF=;|MA;ID=23;IT=CC-MG-AE-AC-MA"
+    },
+    {
+      "url": "https://www.bet365.com.au/sportsnews/displaytab/en-au/1/0/0/videos-articles?style=v9&platformid=1",
+      "status": 200,
+      "content_type": "application/json; charset=utf-8",
+      "bytes": 46,
+      "body_preview": "{\"status\":\"204 No Content\",\"display\":\"false\"}\n"
+    }
+  ],
+  "websockets": [
+    {
+      "url": "wss://www.bet365.com.au/sportspublisher/zap/?uid=06409572218797088",
+      "dir": "recv",
+      "bytes": 41,
+      "data_preview": "101\u0002d1925c77-8162-4919-85bf-f43886a75d5b\u0000"
+    },
+    {
+      "url": "wss://www.bet365.com.au/sportspublisher/zap/?uid=06409572218797088",
+      "dir": "sent",
+      "bytes": 1791,
+      "data_preview": "#\u0003P\u0001__time,S_691CF0C12E4DBFD89FFAB428D971FF3F000004,A_AzQABADJAAFg86oHK4gnpBuC78VwHF9nAat9te5OOY66DNJSz9wiNzgWQSOFKPYnlsH6HkRmXdCDb151kXN/gWUWFHlrZKVlHWI8qY4WJ6zNnalWzDQ6jhWaOdM0Z9vTbZEWQUzqXpq6rVxmIW4Wdq1Sh1qnZbh2A9kqv2D4u163M/8Is2G3eXma7sVIqaRrVRrvwyWnEFztav24SZEm4O2Bk+sUs+z9kM6wUDItBBHGiplGkpC29ynNz0W7wWQsX0nlmmZGKgCsWR0U8e1ldjfiWAFmhIEOCYoqIyf0c45qlr6Tjt+maiDdd8L9X+bAUeUDqZchdt9zhjjtMSa0r58yJs"
+    },
+    {
+      "url": "wss://www.bet365.com.au/sportspublisher/zap/?uid=06409572218797088",
+      "dir": "recv",
+      "bytes": 41,
+      "data_preview": "100\u0002d1925c77-8162-4919-85bf-f43886a75d5b\u0000"
+    },
+    {
+      "url": "wss://www.bet365.com.au/sportspublisher/zap/?uid=06409572218797088",
+      "dir": "recv",
+      "bytes": 41,
+      "data_preview": "\u0014__time\u0001F|IN;TI=20260624064428541;UF=55;|"
+    },
+    {
+      "url": "wss://premws-pt1.365lpodds.com/zap/?uid=5188416160382654",
+      "dir": "recv",
+      "bytes": 25,
+      "data_preview": "101\u0002I3PRW09-CKoFmUjiBbr5\u0000"
+    },
+    {
+      "url": "wss://premws-pt1.365lpodds.com/zap/?uid=5188416160382654",
+      "dir": "sent",
+      "bytes": 1774,
+      "data_preview": "#\u0003P\u0001__time,P-ENDP,S_691CF0C12E4DBFD89FFAB428D971FF3F000004,A_AzQABADJAAFg86oHK4gnpBuC78VwHF9nAat9te5OOY66DNJSz9wiNzgWQSOFKPYnlsH6HkRmXdCDb151kXN/gWUWFHlrZKVlHWI8qY4WJ6zNnalWzDQ6jhWaOdM0Z9vTbZEWQUzqXpq6rVxmIW4Wdq1Sh1qnZbh2A9kqv2D4u163M/8Is2G3eXma7sVIqaRrVRrvwyWnEFztav24SZEm4O2Bk+sUs+z9kM6wUDItBBHGiplGkpC29ynNz0W7wWQsX0nlmmZGKgCsWR0U8e1lTAQkKHMSxDF7FxraKVlko3YvwMROLpByfHOkWPE0bfzsk64wtSEbwICtSnQg9Cm"
+    },
+    {
+      "url": "wss://premws-pt1.365lpodds.com/zap/?uid=5188416160382654",
+      "dir": "recv",
+      "bytes": 25,
+      "data_preview": "100\u0002I3PRW09-CKoFmUjiBbr5\u0000"
+    },
+    {
+      "url": "wss://premws-pt1.365lpodds.com/zap/?uid=5188416160382654",
+      "dir": "sent",
+      "bytes": 2315,
+      "data_preview": "\u0016\u0000P-ENDP,P_CONFIG,PVG_CONFIG_3,PV_CHARTS,PVG_IPPG,RPB31520_30_0,RPB31520_30_0,RPB22119_30_0,DR2S12_30_0,DR4S12_30_0,DR88S12_30_0,RPB22120_30_0,RPB33968_30_0,RPB33971_30_0,PM196815295-1563135357,PM196815295-1563135366,PM196815295-1563135370,PM196815292-1563134189,PM196815292-1563134201,PM196815292-1563134185,PM196815289-1563134233,PM196815289-1563134263,PM196815289-1563134240,PM196815281-1563133558"
+    },
+    {
+      "url": "wss://premws-pt1.365lpodds.com/zap/?uid=5188416160382654",
+      "dir": "recv",
+      "bytes": 41,
+      "data_preview": "\u0014__time\u0001F|IN;TI=20260624064429021;UF=55;|"
+    },
+    {
+      "url": "wss://premws-pt1.365lpodds.com/zap/?uid=5188416160382654",
+      "dir": "recv",
+      "bytes": 12240,
+      "data_preview": "\u0014P-ENDP\u0001F|EV;ID=;IT=P-ENDP;|MG;ID=;IT=ENDP;|MA;AD=;ED=B:1~I^:16,17,18,20,21~J^:1~K^:4~R^:1;EX=AS;IT=seo;NA=/specialeventcontentapi/outrights;OT=470;|MA;AD=;ED=B:10~D:1;EX=AC;IT=mmf1;NA=/matchmarketscontentapi/markets;OT=510;|MA;AD=;ED=B:2100,2101,2102,2103,2104,2106,2107,2108,2110,2111;EX=AVR;IT=ivspl;NA=/italyvirtualsportscontentapi/splash;OT=825;|MA;AD=;ED=;EX=ABM;IT=sccl;NA=/splashcontentapi/ch"
+    },
+    {
+      "url": "wss://premws-pt1.365lpodds.com/zap/?uid=5188416160382654",
+      "dir": "recv",
+      "bytes": 1225,
+      "data_preview": "\u0014EMPTY\u0001F|IN;EM=1;TO=RPB22119_30_0;|\b\u0014EMPTY\u0001F|IN;EM=1;TO=RPB22120_30_0;|\b\u0014EMPTY\u0001F|IN;EM=1;TO=RPB33968_30_0;|\b\u0014EMPTY\u0001F|IN;EM=1;TO=RPB33971_30_0;|\b\u0014EMPTY\u0001F|IN;EM=1;TO=__ugc;|\b\u0014PM196815257-1563129737\u0001F|PA;3P=;3W=,,;DO=6;FI=196815257;FL=;FP=;FW=5/1:,;HA=;HD=;ID=1563129737;IT=PM196815257-1563129737;OD=5/1;OH=;RO=0;RS=1;SA=0,-1,-1,0,-1;SU=0;|\b\u0014PM196815293-1563134863\u0001F|PA;3P=;3W=,,;DO=5;FI=196815293;FL=;F"
+    },
+    {
+      "url": "wss://premws-pt1.365lpodds.com/zap/?uid=5188416160382654",
+      "dir": "recv",
+      "bytes": 345,
+      "data_preview": "\u0014PM196815281-1563133572\u0001F|PA;3P=;3W=,,;DO=3.4;FI=196815281;FL=;FP=;FW=12/5:,;HA=;HD=;ID=1563133572;IT=PM196815281-1563133572;OD=12/5;OH=;RO=0;RS=1;SA=0,-1,-1,0,-1;SU=0;|\b\u0014PM196815293-1563134882\u0001F|PA;3P=;3W=,,;DO=7;FI=196815293;FL=;FP=;FW=6/1:,, 11/2;HA=;HD=;ID=1563134882;IT=PM196815293-1563134882;OD=6/1;OH=11/2;RO=0;RS=1;SA=0,-1,-1,0,-1;SU=0;|"
+    },
+    {
+      "url": "wss://premws-pt1.365lpodds.com/zap/?uid=5188416160382654",
+      "dir": "recv",
+      "bytes": 67533,
+      "data_preview": "\u0014PVG_IPPG\u0001F|EV;IT=PVG_IPPG;MM=30154,1246#1777,40#;|\b\u0014PM196815289-1563134233\u0001F|PA;3P=;3W=,,;DO=8;FI=196815289;FL=;FP=;FW=7/1:,13/2, 7/1, 13/2;HA=;HD=;ID=1563134233;IT=PM196815289-1563134233;OD=7/1;OH=13/2, 7/1, 13/2;RO=0;RS=1;SA=0,-1,-1,0,-1;SU=0;|\b\u0014PM196815289-1563134263\u0001F|PA;3P=;3W=,,;DO=8;FI=196815289;FL=;FP=;FW=7/1:,15/2, 7/1, 15/2;HA=;HD=;ID=1563134263;IT=PM196815289-1563134263;OD=7/1;OH=15/2,"
+    },
+    {
+      "url": "wss://premws-pt1.365lpodds.com/zap/?uid=5188416160382654",
+      "dir": "sent",
+      "bytes": 2823,
+      "data_preview": "\u0016\u00001032026062421152274196708474112DR_1_0,1032026062421152301196713610112DR_1_0,1032026062421152291196711120112DR_1_0,1032026062421152274196708475112DR_1_0,1032026062421152301196713614112DR_1_0,1032026062421152291196711117112DR_1_0,1032026062421152274196708480112DR_1_0,1032026062421152301196713621112DR_1_0,1032026062421152263196706739112DR_1_0,1022026062421152509196755671112DR_1_0,103202606242115231"
+    },
+    {
+      "url": "wss://premws-pt1.365lpodds.com/zap/?uid=5188416160382654",
+      "dir": "recv",
+      "bytes": 94435,
+      "data_preview": "\u0014P-ENDP\u0001F|EV;ID=;IT=P-ENDP;|MG;ID=;IT=ENDP;|MA;AD=;ED=B:1~I^:16,17,18,20,21~J^:1~K^:4~R^:1;EX=AS;IT=seo;NA=/specialeventcontentapi/outrights;OT=470;|MA;AD=;ED=B:10~D:1;EX=AC;IT=mmf1;NA=/matchmarketscontentapi/markets;OT=510;|MA;AD=;ED=B:2100,2101,2102,2103,2104,2106,2107,2108,2110,2111;EX=AVR;IT=ivspl;NA=/italyvirtualsportscontentapi/splash;OT=825;|MA;AD=;ED=;EX=ABM;IT=sccl;NA=/splashcontentapi/ch"
+    },
+    {
+      "url": "wss://premws-pt1.365lpodds.com/zap/?uid=5188416160382654",
+      "dir": "sent",
+      "bytes": 1728,
+      "data_preview": "\u0016\u0000DKNCK4,A_AzQABADJAAFg86oHK4gnpBuC78VwHF9nAat9te5OOY66DNJSz9wiNzgWQSOFKPYnlsH6HkRmXdCDb151kXN/gWUWFHlrZKVlHWI8qY4WJ6zNnalWzDQ6jhWaOdM0Z9vTbZEWQUzqXpq6rVxmIW4Wdq1Sh1qnZbh2A9kqv2D4u163M/8Is2G3eXma7sVIqaRrVRrvwyWnEFztav24SZEm4O2Bk+sUs+z9kM6wUDItBBHGiplGkpC29ynNz0W7wWQsX0nlmmZGKgCsWR0U8e1lUsm7Fj2rUM0o9NhoX2zAv7HDKBkoO+fOqT213Fydzx2L7v90E1s9GK9mVcrMK+ZqKyNo6Xdb9bvEFLsetfcMAa5Kw1lwgzOWWVEkt5atka8RTolTH"
+    },
+    {
+      "url": "wss://premws-pt1.365lpodds.com/zap/?uid=5188416160382654",
+      "dir": "recv",
+      "bytes": 7603,
+      "data_preview": "\u00141022026062421152509196755665112DR_1_0\u0001F|MA;CL=2;FI=0;ID=20205;IT=1022026062421152509196755665C2S12-20205DR_30_0;MA=20205;PY=;|PA;DI=1622136;FI=196755665;HA=;HD=;ID=1555597221;IG=499802442_2_1.png;IT=1022026062421152509196755665C2S12-1555597221DR_30_0;JY=Masaaki Kuwamura;NA=B B Wold;NC=1;OD=0/0;OR=0;SU=0;|PA;DI=1610925;FI=196755665;HA=;HD=;ID=1555597223;IG=499802442_2_2.png;IT=10220260624211525091"
+    },
+    {
+      "url": "wss://premws-pt1.365lpodds.com/zap/?uid=5188416160382654",
+      "dir": "recv",
+      "bytes": 54533,
+      "data_preview": "\u00141032026062421152301196713614112DR_1_0\u0001F|MA;CL=4;FI=0;ID=40232;IT=1032026062421152301196713614C4S12-40232DR_33_0;MA=40232;PY=;|PA;DI=1630694;FI=196713614;HA=;HD=;ID=1550878717;IG=;IT=1032026062421152301196713614C4S12-1550878717DR_33_0;JY=Unknown 8;NA=Pretty Proud;NC=8;OD=6/5;OR=0;SU=0;|PA;DI=1562732;FI=196713614;HA=;HD=;ID=1550878710;IG=;IT=1032026062421152301196713614C4S12-1550878710DR_33_0;JY=Un"
+    },
+    {
+      "url": "wss://premws-pt1.365lpodds.com/zap/?uid=5188416160382654",
+      "dir": "recv",
+      "bytes": 3843,
+      "data_preview": "\u00141022026062421152509196755671112DR_1_0\u0001F|MA;CL=2;FI=0;ID=20203;IT=1022026062421152509196755671C2S12-20203DR_1_0;MA=20203;PY=;|PA;DI=1619465;FI=196755671;HA=;HD=;ID=1555598624;IG=499802442_1_8.png;IT=1022026062421152509196755671C2S12-1555598624DR_1_0;JY=Masaaki Kuwamura;NA=Pitagora;NC=8;OD=8/5;OR=0;SU=0;|PA;DI=1611123;FI=196755671;HA=;HD=;ID=1555598630;IG=499802442_1_11.png;IT=102202606242115250919"
+    },
+    {
+      "url": "wss://premws-pt1.365lpodds.com/zap/?uid=5188416160382654",
+      "dir": "recv",
+      "bytes": 38139,
+      "data_preview": "\u00141032026062421152274196708480112DR_1_0\u0001F|MA;CL=4;FI=0;ID=40232;IT=1032026062421152274196708480C4S12-40232DR_1_0;MA=40232;PY=;|PA;DI=1520284;FI=196708480;HA=;HD=;ID=1550282878;IG=;IT=1032026062421152274196708480C4S12-1550282878DR_1_0;JY=Unknown 4;NA=Heart;NC=4;OD=9/5;OR=0;SU=0;|PA;DI=1464604;FI=196708480;HA=;HD=;ID=1550282876;IG=;IT=1032026062421152274196708480C4S12-1550282876DR_1_0;JY=Unknown 2;NA"
+    },
+    {
+      "url": "wss://premws-pt1.365lpodds.com/zap/?uid=5188416160382654",
+      "dir": "recv",
+      "bytes": 3915,
+      "data_preview": "\u00141032026062421152282196709961112DR_1_0\u0001F|MA;CL=88;FI=0;ID=880203;IT=1032026062421152282196709961C88S12-880203DR_1_0;MA=880203;PY=;|PA;DI=1339666;FI=196709961;HA=;HD=;ID=1550465361;IG=499902881_6_2.png;IT=1032026062421152282196709961C88S12-1550465361DR_1_0;JY=Ryan Hryhorec;NA=Resurrects;NC=2;OD=4/5;OR=0;SU=0;|PA;DI=1034662;FI=196709961;HA=;HD=;ID=1550465386;IG=499902881_6_5.png;IT=10320260624211522"
+    },
+    {
+      "url": "wss://premws-pt1.365lpodds.com/zap/?uid=5188416160382654",
+      "dir": "sent",
+      "bytes": 1723,
+      "data_preview": "\u0016\u0000__ugc,A_AzQABADJAAFg86oHK4gnpBuC78VwHF9nAat9te5OOY66DNJSz9wiNzgWQSOFKPYnlsH6HkRmXdCDb151kXN/gWUWFHlrZKVlHWI8qY4WJ6zNnalWzDQ6jhWaOdM0Z9vTbZEWQUzqXpq6rVxmIW4Wdq1Sh1qnZbh2A9kqv2D4u163M/8Is2G3eXma7sVIqaRrVRrvwyWnEFztav24SZEm4O2Bk+sUs+z9kM6wUDItBBHGiplGkpC29ynNz0W7wWQsX0nlmmZGKgCsWR0U8e1lQnhpgGZ4EEdBiju+DZqk65PdX5B1dUYD7vF/cHuh1MFSNmaXtiA78F3vzPmg+LO2yHao2J23OM1YPRfE/5/qfrll/mGJB7MqHHZ3kPpAOm6+NcAOmE"
+    },
+    {
+      "url": "wss://pshudws.z1.365lpodds.com/zap/?uid=19977784981067048",
+      "dir": "sent",
+      "bytes": 52,
+      "data_preview": "#\u0003P\u0001__time,S_691CF0C12E4DBFD89FFAB428D971FF3F000004\u0000"
+    },
+    {
+      "url": "wss://premws-pt1.365lpodds.com/zap/?uid=5188416160382654",
+      "dir": "recv",
+      "bytes": 56,
+      "data_preview": "\u0014EMPTY\u0001F|IN;EM=1;TO=DKNCK4;|\b\u0014EMPTY\u0001F|IN;EM=1;TO=__ugc;|"
+    },
+    {
+      "url": "wss://premws-pt1.365lpodds.com/zap/?uid=5188416160382654",
+      "dir": "sent",
+      "bytes": 1733,
+      "data_preview": "\u0016\u0000InPlay_30_0,A_AzQABADJAAFg86oHK4gnpBuC78VwHF9nAat9te5OOY66DNJSz9wiNzgWQSOFKPYnlsH6HkRmXdCDb151kXN/gWUWFHlrZKVlHWI8qY4WJ6zNnalWzDQ6jhWaOdM0Z9vTbZEWQUzqXpq6rVxmIW4Wdq1Sh1qnZbh2A9kqv2D4u163M/8Is2G3eXma7sVIqaRrVRrvwyWnEFztav24SZEm4O2Bk+sUs+z9kM6wUDItBBHGiplGkpC29ynNz0W7wWQsX0nlmmZGKgCsWR0U8e1lGIrGnUkGTsQscPzhNTtXJu24zC6wy83uW6RgtCiAutI7CLOtusrQCI8mYSISHFyoovjeZ6DX9sAkXm/PzYipsa4V6RcAGzICUOXQgJvbPn1y"
+    },
+    {
+      "url": "wss://pshudws.z1.365lpodds.com/zap/?uid=19977784981067048",
+      "dir": "recv",
+      "bytes": 25,
+      "data_preview": "100\u0002OC1UD01-9G+lF3v1kb/x\u0000"
+    },
+    {
+      "url": "wss://pshudws.z1.365lpodds.com/zap/?uid=19977784981067048",
+      "dir": "sent",
+      "bytes": 1752,
+      "data_preview": "\u0016\u0000S_691CF0C12E4DBFD89FFAB428D971FF3F000004,__udsv,__udoo,A_AzQABADJAAFg86oHK4gnpBuC78VwHF9nAat9te5OOY66DNJSz9wiNzgWQSOFKPYnlsH6HkRmXdCDb151kXN/gWUWFHlrZKVlHWI8qY4WJ6zNnalWzDQ6jhWaOdM0Z9vTbZEWQUzqXpq6rVxmIW4Wdq1Sh1qnZbh2A9kqv2D4u163M/8Is2G3eXma7sVIqaRrVRrvwyWnEFztav24SZEm4O2Bk+sUs+z9kM6wUDItBBHGiplGkpC29ynNz0W7wWQsX0nlmmZGKgCsWR0U8e1lJmiuwhbRImlpXcn8RpzYS1JZZlWZBSYaJbcFHhGFK+V1tYlIOpt0JtWSmNp1ny3Dj"
+    },
+    {
+      "url": "wss://pshudws.z1.365lpodds.com/zap/?uid=19977784981067048",
+      "dir": "sent",
+      "bytes": 65,
+      "data_preview": "\u0002\u0000command\u0001getBalance\u0001691CF0C12E4DBFD89FFAB428D971FF3F000004\u0002SPTBK"
+    },
+    {
+      "url": "wss://pshudws.z1.365lpodds.com/zap/?uid=19977784981067048",
+      "dir": "sent",
+      "bytes": 62,
+      "data_preview": "\u0002\u0000command\u0001refresh\u0001691CF0C12E4DBFD89FFAB428D971FF3F000004\u0002SPTBK"
+    },
+    {
+      "url": "wss://pshudws.z1.365lpodds.com/zap/?uid=19977784981067048",
+      "dir": "sent",
+      "bytes": 68,
+      "data_preview": "\u0002\u0000command\u0001getMessage\u0001691CF0C12E4DBFD89FFAB428D971FF3F000004\u0002SPTBK\u000230"
+    },
+    {
+      "url": "wss://pshudws.z1.365lpodds.com/zap/?uid=19977784981067048",
+      "dir": "sent",
+      "bytes": 65,
+      "data_preview": "\u0002\u0000command\u0001getBalance\u0001691CF0C12E4DBFD89FFAB428D971FF3F000004\u0002SPTBK"
+    },
+    {
+      "url": "wss://pshudws.z1.365lpodds.com/zap/?uid=19977784981067048",
+      "dir": "recv",
+      "bytes": 45,
+      "data_preview": "\u0014S_691CF0C12E4DBFD89FFAB428D971FF3F000004\u0001F||"
+    },
+    {
+      "url": "wss://pshudws.z1.365lpodds.com/zap/?uid=19977784981067048",
+      "dir": "sent",
+      "bytes": 1704,
+      "data_preview": "\u0016\u0000CONFIG,A_AzQABADJAAFg86oHK4gnpBuC78VwHF9nAat9te5OOY66DNJSz9wiNzgWQSOFKPYnlsH6HkRmXdCDb151kXN/gWUWFHlrZKVlHWI8qY4WJ6zNnalWzDQ6jhWaOdM0Z9vTbZEWQUzqXpq6rVxmIW4Wdq1Sh1qnZbh2A9kqv2D4u163M/8Is2G3eXma7sVIqaRrVRrvwyWnEFztav24SZEm4O2Bk+sUs+z9kM6wUDItBBHGiplGkpC29ynNz0W7wWQsX0nlmmZGKgCsWR0U8e1lFL9SXA1i0JUKyvieDlNUCdv3WTllFLt9JR+3bCaPR8Hrbx7OW/E88VGfUyQMAFaKurAGW49BD3G1cATVQxEartYGKsmuv6aOhnm2NDCEcRjTCd6Gn"
+    },
+    {
+      "url": "wss://premws-pt1.365lpodds.com/zap/?uid=5188416160382654",
+      "dir": "recv",
+      "bytes": 49605,
+      "data_preview": "\u0014InPlay_30_0\u0001F|CL;CD=;DO=1;FF=;HO=1;HZ=824852224299;ID=2;IT=CL_2_30_0;NA=Horse Racing;OR=0;RO=1;|EV;AD=;AU=0;BC=20260701074500;C1=20769397;C2=135339761;C3=0;CB=0928293133363943495661A1AAABACADAEAFAGAIALAMANAOAQARASAUAWAXAZBABBBDBFBHBIBJBLBMBNBOBQBRBSBTBVBWBYBZC1CACCCDCFCGCHCICKCLCMCNCOCRCUCVCWCXDEDJDMDODZECEGEHERETFIFJFKFMFOFRGAGDGEGFGHGIGLGMGNGPGQGSGTGUGWGYHKHMHNHTIAIDILINIOIQIRJMJOJPKEKGKHKIKMKN"
+    },
+    {
+      "url": "wss://pshudws.z1.365lpodds.com/zap/?uid=19977784981067048",
+      "dir": "recv",
+      "bytes": 90,
+      "data_preview": "\u0014__udsv\u0001F|EV;TP=;SS=;IT=__udsv;SR=;|\b\u0015__udsv\u0001U|EV;TP=1782279870998;SS=295;SR=0;IT=__udsv;|"
+    },
+    {
+      "url": "wss://pshudws.z1.365lpodds.com/zap/?uid=19977784981067048",
+      "dir": "recv",
+      "bytes": 64,
+      "data_preview": "\u0014CONFIG\u0001F|CF;BC=0;EE=0;ID=CONFIG;IT=CONFIG;OB=1;BO=0;CB=1;AC=0;|"
+    },
+    {
+      "url": "wss://pshudws.z1.365lpodds.com/zap/?uid=19977784981067048",
+      "dir": "recv",
+      "bytes": 54,
+      "data_preview": "\u0015691CF0C12E4DBFD89FFAB428D971FF3F000004_SPTBK_30_MSG\u0001F"
+    },
+    {
+      "url": "wss://pshudws.z1.365lpodds.com/zap/?uid=19977784981067048",
+      "dir": "recv",
+      "bytes": 41,
+      "data_preview": "\u0014__time\u0001F|IN;TI=20260624064430805;UF=55;|"
+    },
+    {
+      "url": "wss://pshudws.z1.365lpodds.com/zap/?uid=19977784981067048",
+      "dir": "recv",
+      "bytes": 28,
+      "data_preview": "\u0014__udoo\u0001F|EV;IT=__udoo;OC=;|"
+    },
+    {
+      "url": "wss://pshudws.z1.365lpodds.com/zap/?uid=19977784981067048",
+      "dir": "recv",
+      "bytes": 216,
+      "data_preview": "\u0015691CF0C12E4DBFD89FFAB428D971FF3F000004_SPTBK_BAL2\u0001{\"bb\":\"0.00\",\"bcb\":\"0.00\",\"dba\":false,\"dbb\":\"0.00\",\"dr\":\"0.00\",\"drr\":\"0.00\",\"nw\":\"0.00\",\"pb\":\"76.69\",\"sr\":\"0.00\",\"srr\":\"0.00\",\"tb\":\"76.69\",\"wb\":\"76.69\",\"ww\":\"76.69\"}"
+    },
+    {
+      "url": "wss://premws-pt1.365lpodds.com/zap/?uid=5188416160382654",
+      "dir": "recv",
+      "bytes": 290,
+      "data_preview": "\u0015L196786981-1559668169_30_0\u0001U|OD=3/10;|\b\u0015L196786981-1559668166_30_0\u0001U|OD=12/5;|\b\u0015L13-1-5-135321945-5-20000625_30_0\u0001U|XP=40-A;|\b\u0015L196785381-1559432612_30_0\u0001U|HA=-36.5;HD= -36.5;|\b\u0015L196785381-1559432611_30_0\u0001U|HA=+36.5;HD= +36.5;|\b\u0015L18-1-5-26053454-5-21113193_30_0\u0001U|TU=20260624064431;TS=21;|"
+    },
+    {
+      "url": "wss://pshudws.z1.365lpodds.com/zap/?uid=19977784981067048",
+      "dir": "recv",
+      "bytes": 190,
+      "data_preview": "\u0014EMPTY\u0001F|IN;EM=1;TO=Sev5PK+v15UgI5CYrV3CWTH1mDZtAvMCBnP5xBkWROaI0qZ5uYIELbyTTGnrGo0dVTY+EXeWn5gjWveiSiK5MP2PaFTtaLDX2shvO0bA1U79gdqS8t9UH5OW3OKpYRNuOi1i9uf1XIE=;|\b\u0014EMPTY\u0001F|IN;EM=1;TO=AdEM=;|"
+    },
+    {
+      "url": "wss://premws-pt1.365lpodds.com/zap/?uid=5188416160382654",
+      "dir": "recv",
+      "bytes": 142,
+      "data_preview": "\u0015L196786988-1559669274_30_0\u0001U|OD=1/4;|\b\u0015L196786988-1559669271_30_0\u0001U|OD=11/4;|\b\u0015L13-1-5-135321950-5-20000625_30_0\u0001U|PI=0,1;XP=0-0;SS=6-4,2-3;|"
+    },
+    {
+      "url": "wss://premws-pt1.365lpodds.com/zap/?uid=5188416160382654",
+      "dir": "recv",
+      "bytes": 3904,
+      "data_preview": "\u00151032026062421152263196706739112DR_1_0/1032026062421152263196706739C2S12-20203DR_21_0/1032026062421152263196706739C2S12-1550085011DR_21_0\u0001D||\b\u00151032026062421152263196706739C2S12-20203DR_21_0/1032026062421152263196706739C2S12-1550085016DR_21_0\u0001I|PA;DI=1318469;FI=196706739;HA=;HD=;ID=1550085016;IG=499800460_6_12.png;IT=1032026062421152263196706739C2S12-1550085016DR_21_0;JY=Chad Schofield;NA=Unstopabu"
+    },
+    {
+      "url": "wss://www.bet365.com.au/sportspublisher/zap/?uid=06409572218797088",
+      "dir": "recv",
+      "bytes": 41,
+      "data_preview": "\u0015__time\u0001U|IN;TI=20260624064432568;UF=55;|"
+    },
+    {
+      "url": "wss://premws-pt1.365lpodds.com/zap/?uid=5188416160382654",
+      "dir": "recv",
+      "bytes": 56,
+      "data_preview": "\u0015L1-1-5-135347741-2-737_30_0\u0001U|TU=20260624064432;TS=44;|"
+    },
+    {
+      "url": "wss://premws-pt1.365lpodds.com/zap/?uid=5188416160382654",
+      "dir": "recv",
+      "bytes": 56,
+      "data_preview": "\u0015L1-1-5-135347741-2-737_30_0\u0001U|TU=20260624064433;TS=46;|"
+    },
+    {
+      "url": "wss://premws-pt1.365lpodds.com/zap/?uid=5188416160382654",
+      "dir": "recv",
+      "bytes": 637,
+      "data_preview": "\u0015L1-1-5-135347741-2-737_30_0\u0001U|TU=20260624064434;|\b\u00151032026062421152301196713610C4S12-1550878151DR_1_0\u0001U|OD=5/1;OR=2;|\b\u00151032026062421152301196713610C4S12-1550878151DR_21_0\u0001U|OD=5/1;OR=2;|\b\u00151032026062421152301196713610C4S12-1550878151DR_1_0\u0001U|OR=2;|\b\u00151032026062421152301196713610C4S12-1550878151DR_1_0\u0001U|OR=2;|\b\u00151032026062421152301196713610C4S12-1550878151DR_30_0\u0001U|OD=5/1;OR=2;|\b\u001510320260624211523011"
+    },
+    {
+      "url": "wss://premws-pt1.365lpodds.com/zap/?uid=5188416160382654",
+      "dir": "recv",
+      "bytes": 227,
+      "data_preview": "\u00151032026062421152301196713610C4S12-1550878151DR_33_0\u0001U|OD=5/1;OR=2;|\b\u0015L92-1-5-26054644-5-20021637_30_0\u0001U|SS=9-8;|\b\u0015L196792178-1560314538_30_0\u0001U|HA=57.5;HD= 57.5;OD=4/5;|\b\u0015L196792178-1560314536_30_0\u0001U|HA=57.5;HD= 57.5;OD=10/11;|"
+    },
+    {
+      "url": "wss://premws-pt1.365lpodds.com/zap/?uid=5188416160382654",
+      "dir": "recv",
+      "bytes": 258,
+      "data_preview": "\u0015L92-1-5-26054643-5-20021637_30_0\u0001U|SS=5-4;|\b\u0015L196792202-1560316124_30_0\u0001U|HA=81.5;HD= 81.5;OD=5/6;|\b\u0015L196792202-1560316122_30_0\u0001U|HA=81.5;HD= 81.5;OD=5/6;|\b\u0015L18-1-5-26053272-5-21119496_30_0\u0001U|TU=20260624064434;TS=24;|\b\u0015L196820064-1563826666_30_0\u0001U|OD=16/1;|"
+    },
+    {
+      "url": "wss://premws-pt1.365lpodds.com/zap/?uid=5188416160382654",
+      "dir": "recv",
+      "bytes": 339,
+      "data_preview": "\u0015L1-1-5-135347852-2-737_30_0\u0001U|TU=20260624064435;TS=23;|\b\u0015L196793174-1560447218_30_0\u0001U|OD=4/11;|\b\u0015L196793174-1560447214_30_0\u0001U|OD=2/1;|\b\u0015L92-1-5-26051356-5-20021637_30_0\u0001U|SS=8-9;|\b\u0015L196820119-1563836209_30_0\u0001U|OD=5/2;|\b\u0015L196820119-1563836208_30_0\u0001U|OD=11/10;|\b\u0015L196820123-1563836761_30_0\u0001U|OD=1/14;|\b\u0015L196820123-1563836760_30_0\u0001U|OD=8/1;|"
+    },
+    {
+      "url": "wss://premws-pt1.365lpodds.com/zap/?uid=5188416160382654",
+      "dir": "recv",
+      "bytes": 2444,
+      "data_preview": "\u0015L92-1-5-26054646-5-20021637_30_0\u0001U|SS=6-7;|\b\u0015L196792190-1560315258_30_0\u0001U|HA=98.5;HD= 98.5;|\b\u0015L196792190-1560315257_30_0\u0001U|HA=98.5;HD= 98.5;|\b\u0015CL_1_30_0\u0001U|CL;CD=1;DO=1;FF=1~IA;HO=1;HZ=11;ID=1;IT=CL_1_30_0;NA=Soccer;OR=1;RO=1;|\b\u0015CL_1_30_0/L1-1-5-135347948-2-737_30_0\u0001I|EV;AL=196819252C1A_30/1777-196819252C1A_30;AU=0;C1=1;C2=135347948;C3=196820309;CB=;CK=ESOCH2HGG-8MP;CL=1;CT=Esoccer H2H GG League -"
+    },
+    {
+      "url": "wss://premws-pt1.365lpodds.com/zap/?uid=5188416160382654",
+      "dir": "recv",
+      "bytes": 40,
+      "data_preview": "\u0015L196820010-1564055591_30_0\u0001U|OD=10/27;|"
+    },
+    {
+      "url": "wss://premws-pt1.365lpodds.com/zap/?uid=5188416160382654",
+      "dir": "recv",
+      "bytes": 1301,
+      "data_preview": "\u00151032026062421152281196709898C88S12DR_30_0\u0001U|IB=1;RF=1~G+G/G2G3G4G5G6G7G8G9GAGaGBGbGCGcGdGEGeGFGfGGGgGHGhGIGiGJGjGKGkGLGlGMGmGNGnGOGoGPGpGQGqGRGrGSGsGTGtGUGuGVGvGWGwGXGxGYGyGZH+H/H0H1H2H3H4H5H6H8H9HAHaHBHbHCHcHDHdHEHeHFHfHGHgHHHhHIHiHJHjHKHkHLHlHMHmHNHnHOHoHPHpHQHqHRHrHSHsHTHtHUHuHVHvHWHwHXHxHYHyHZHzI+I/I0I1I2I3I4I5I6I7I8I9IAIaIBIbICIcIDIdIeIFIfIGIgIHIhIIIiIJIjIkILIlIMImINInIOIoIPIpIQIqIRIrISIsITI"
+    },
+    {
+      "url": "wss://premws-pt1.365lpodds.com/zap/?uid=5188416160382654",
+      "dir": "recv",
+      "bytes": 56,
+      "data_preview": "\u0015L1-1-5-135347852-2-737_30_0\u0001U|TU=20260624064438;TS=25;|"
+    },
+    {
+      "url": "wss://premws-pt1.365lpodds.com/zap/?uid=5188416160382654",
+      "dir": "recv",
+      "bytes": 237,
+      "data_preview": "\u0015L1-1-5-135347741-2-737_30_0\u0001U|TU=20260624064438;TS=51;|\b\u0015L18-1-5-26053271-5-21119496_30_0\u0001U|TU=20260624064438;TS=37;|\b\u0015L1-1-5-135347852-2-737_30_0\u0001U|TU=20260624064439;TS=26;|\b\u0015L18-1-5-26053454-5-21113193_30_0\u0001U|TU=20260624064439;TS=12;|"
+    },
+    {
+      "url": "wss://premws-pt1.365lpodds.com/zap/?uid=5188416160382654",
+      "dir": "recv",
+      "bytes": 38,
+      "data_preview": "\u0015L1-1-5-135347852-2-737_30_0\u0001U|TS=27;|"
+    },
+    {
+      "url": "wss://premws-pt1.365lpodds.com/zap/?uid=5188416160382654",
+      "dir": "recv",
+      "bytes": 953,
+      "data_preview": "\u0015InPlay_30_0/CL_1_30_0/L1-1-5-737-198-737_30_0/L-CF1-196814401C1_30_0\u0001D||\b\u0015L1-1-5-135347693-2-737_30_0\u0001U|AL=196814401C1A_30/1778-196814401C1A_30;|\b\u0015L1-1-5-135347693-2-737_30_0/L196814401C1-1778_30_0\u0001I|MA;CN=3;DO=1;FF=;FI=196820009;GO=8th;ID=1778;IT=L196814401C1-1778_30_0;LA=1;NA=8th Goal;OR=1;PC=CL_1_30_0;SU=1;TO=1~GD;|\b\u0015L196814401C1-1778_30_0/L196820009-1564044536_30_0\u0001I|PA;FI=196820009;HA=;HD=;I"
+    },
+    {
+      "url": "wss://premws-pt1.365lpodds.com/zap/?uid=5188416160382654",
+      "dir": "recv",
+      "bytes": 56,
+      "data_preview": "\u0015L1-1-5-135347741-2-737_30_0\u0001U|TU=20260624064440;TS=52;|"
+    },
+    {
+      "url": "wss://premws-pt1.365lpodds.com/zap/?uid=5188416160382654",
+      "dir": "recv",
+      "bytes": 56,
+      "data_preview": "\u0015L1-1-5-135347852-2-737_30_0\u0001U|TU=20260624064440;TS=28;|"
+    },
+    {
+      "url": "wss://premws-pt1.365lpodds.com/zap/?uid=5188416160382654",
+      "dir": "recv",
+      "bytes": 50,
+      "data_preview": "\u0015L1-1-5-135347852-2-737_30_0\u0001U|TU=20260624064441;|"
+    },
+    {
+      "url": "wss://premws-pt1.365lpodds.com/zap/?uid=5188416160382654",
+      "dir": "recv",
+      "bytes": 180,
+      "data_preview": "\u0015L92-1-5-26054645-5-20021637_30_0\u0001U|SS=2-0;|\b\u0015L196820064-1563826663_30_0\u0001U|OD=8/1;|\b\u0015L196820064-1563826662_30_0\u0001U|OD=1/14;|\b\u0015L1-1-5-135347741-2-737_30_0\u0001U|TU=20260624064441;TS=53;|"
+    },
+    {
+      "url": "wss://premws-pt1.365lpodds.com/zap/?uid=5188416160382654",
+      "dir": "recv",
+      "bytes": 127,
+      "data_preview": "\u0015L196819781-1563791404_30_0\u0001U|OD=21/20;|\b\u0015L196819781-1563791403_30_0\u0001U|OD=7/10;|\b\u0015L13-1-5-135347486-5-20000625_30_0\u0001U|XP=40-A;|"
+    },
+    {
+      "url": "wss://premws-pt1.365lpodds.com/zap/?uid=5188416160382654",
+      "dir": "recv",
+      "bytes": 56,
+      "data_preview": "\u0015L1-1-5-135347852-2-737_30_0\u0001U|TU=20260624064442;TS=30;|"
+    },
+    {
+      "url": "wss://premws-pt1.365lpodds.com/zap/?uid=5188416160382654",
+      "dir": "recv",
+      "bytes": 232,
+      "data_preview": "\u0015L92-1-5-26051356-5-20021637_30_0\u0001U|SS=8-10;|\b\u0015L196783782-1559177529_30_0\u0001U|HA=-18.5;HD= -18.5;OD=5/6;|\b\u0015L196783782-1559177528_30_0\u0001U|HA=+18.5;HD= +18.5;OD=5/6;|\b\u0015L18-1-5-26053272-5-21119496_30_0\u0001U|SS=12-32;TU=20260624064443;TS=16;|"
+    },
+    {
+      "url": "wss://premws-pt1.365lpodds.com/zap/?uid=5188416160382654",
+      "dir": "recv",
+      "bytes": 56,
+      "data_preview": "\u0015L1-1-5-135347741-2-737_30_0\u0001U|TU=20260624064443;TS=55;|"
+    },
+    {
+      "url": "wss://premws-pt1.365lpodds.com/zap/?uid=5188416160382654",
+      "dir": "recv",
+      "bytes": 2128,
+      "data_preview": "\u00151022026062421152509196755671C2S12-1555598623DR_30_0\u0001U|OD=13/2;OR=2;|\b\u00151022026062421152509196755671C2S12-1555598624DR_30_0\u0001U|OD=13/10;OR=0;|\b\u00151022026062421152509196755671C2S12-1555598630DR_30_0\u0001U|OD=3/1;OR=1;|\b\u00151022026062421152509196755671C2S12-1555598623DR_1_0\u0001U|OD=13/2;OR=2;|\b\u00151022026062421152509196755671C2S12-1555598624DR_1_0\u0001U|OD=13/10;OR=0;|\b\u00151022026062421152509196755671C2S12-1555598630DR_1_0"
+    },
+    {
+      "url": "wss://premws-pt1.365lpodds.com/zap/?uid=5188416160382654",
+      "dir": "recv",
+      "bytes": 507,
+      "data_preview": "\u0015L196791305-1560250275_30_0\u0001U|OD=4/6;|\b\u0015L196791305-1560250274_30_0\u0001U|OD=11/10;|\b\u0015L18-1-5-26053272-5-21119496_30_0\u0001U|TU=20260624064445;TS=12;|\b\u0015L1-1-5-135347852-2-737_30_0\u0001U|TU=20260624064445;TS=32;|\b\u0015L92-1-5-26054309-5-20021637_30_0\u0001U|SS=5-5;|\b\u0015L196791021-1560207710_30_0\u0001U|HA=51.5;HD= 51.5;|\b\u0015L196791021-1560207706_30_0\u0001U|HA=51.5;HD= 51.5;|\b\u0015L92-1-5-26054643-5-20021637_30_0\u0001U|SS=5-5;|\b\u0015L196792202-1"
+    },
+    {
+      "url": "wss://premws-pt1.365lpodds.com/zap/?uid=5188416160382654",
+      "dir": "recv",
+      "bytes": 185,
+      "data_preview": "\u0015InPlay_30_0/CL_4_30_0/L4-20729251-5-104274805-2-20729251_30_0\u0001D||\b\u0015L196820123-1563836759_30_0\u0001U|OD=12/1;|\b\u0015L196820119-1563836209_30_0\u0001U|OD=12/5;|\b\u0015L196820119-1563836208_30_0\u0001U|OD=6/5;|"
+    },
+    {
+      "url": "wss://premws-pt1.365lpodds.com/zap/?uid=5188416160382654",
+      "dir": "sent",
+      "bytes": 3342,
+      "data_preview": "\u0017\u0000RPB31520_30_0,DR2S12_30_0,1032026062421152263196706739112DR_1_0,1022026062421152509196755671112DR_1_0,1032026062421152310196716448112DR_1_0,1022026062421152510196755696112DR_1_0,1032026062421152264196706895112DR_1_0,1032026062421152275196708868112DR_1_0,1022026062421152509196755665112DR_1_0,1032026062421152263196706713112DR_1_0,1032026062421152310196716455112DR_1_0,102202606242115251019675570511"
+    },
+    {
+      "url": "wss://premws-pt1.365lpodds.com/zap/?uid=5188416160382654",
+      "dir": "recv",
+      "bytes": 261,
+      "data_preview": "\u0015L196820010-1564055591_30_0\u0001U|OD=5/17;|\b\u0015L1-1-5-135347694-2-737_30_0\u0001U|TU=20260624064446;TS=46;|\b\u0015L196787525-1559752033_30_0\u0001U|SU=1;|\b\u0015L196787525-1559752032_30_0\u0001U|SU=1;|\b\u0015L196717711C13-1763_30_0\u0001U|SU=1;|\b\u0015L1-1-5-135347741-2-737_30_0\u0001U|TU=20260624064446;TS=58;|"
+    },
+    {
+      "url": "wss://premws-pt1.365lpodds.com/zap/?uid=5188416160382654",
+      "dir": "recv",
+      "bytes": 1364,
+      "data_preview": "\u0015L196793174-1560447218_30_0\u0001U|OD=3/10;|\b\u0015L196793174-1560447214_30_0\u0001U|OD=12/5;|\b\u0015L13-1-5-135325810-5-20000625_30_0\u0001U|XP=15-0;|\b\u0015L196783779-1559176919_30_0\u0001U|OD=20/23;|\b\u0015L196783779-1559176911_30_0\u0001U|OD=4/5;|\b\u0015L18-1-5-26053271-5-21119496_30_0\u0001U|TU=20260624064447;TS=29;|\b\u0015L196814405C1-1778_30_0/L196820010-1564059454_30_0\u0001I|PA;FI=196820010;HA=;HD=;ID=1564059454;IT=L196820010-1564059454_30_0;NA=Aston V"
+    }
+  ]
+}

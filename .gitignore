@@ -119,6 +119,10 @@ celerybeat.pid
 # SageMath parsed files
 *.sage.py
 
+# bet365 scraper artifacts (live session profile + scraped output)
+.pw-profile/
+boosts.json
+
 # Environments
 .env
 .venv

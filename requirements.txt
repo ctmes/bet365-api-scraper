@@ -1,4 +1,5 @@
 curl_cffi
+playwright
 python-dotenv
 requests
 urllib3
